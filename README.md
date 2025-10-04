@@ -47,18 +47,11 @@ All AI processing happens on-demand. Private conversations remain private unless
 
 ### Matrix Chat (Primary)
 Best for: Quick questions, sharing links, team discussions
-
-=======
-Best for: Quick questions, sharing links, team discussions
 - Type messages naturally - Team Brain watches and learns
 - Use commands like `!help`, `!search`, `!summary-daily`
 - Links shared in chat are automatically captured
 
 ### Web Interface
-Access at: https://babal.io
-Best for: Browsing, reading longer content, visual overview
-
-=======
 Access at: https://babal.io
 Best for: Browsing, reading longer content, visual overview
 - Browse all captured knowledge
@@ -164,7 +157,6 @@ Your team's knowledge stays under your control:
 - Documentation: This README
 - Repository: [team-brain-content on GitHub]
 
----
 
 *Team Brain - Turning collective knowledge into competitive advantage*
 *Powered by Brain architecture and Claude AI*
