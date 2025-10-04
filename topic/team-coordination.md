@@ -8,11 +8,12 @@ The team members coordinated a meeting, with one participant joining from their 
 
 ## Keywords
 
-- organizational model
-- decentralized structure
-- independent experts
+- decentralization
 - distributed work
-- networked collaboration
+- independent experts
+- organizational design
+- talent enablement
+- collaborative networks
 
 ## Sources
 
