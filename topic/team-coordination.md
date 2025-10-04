@@ -9,10 +9,11 @@ The team members coordinated a meeting, with one participant joining from their 
 ## Keywords
 
 - knowledge management
-- team collaboration
-- information transparency
-- data accessibility
-- actionable insights
+- documentation
+- collaboration
+- transparency
+- accessibility
+- insights
 
 ## Sources
 
