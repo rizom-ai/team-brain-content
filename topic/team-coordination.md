@@ -8,12 +8,11 @@ The team members coordinated a meeting, with one participant joining from their 
 
 ## Keywords
 
-- knowledge management
-- documentation
-- collaboration
-- transparency
-- accessibility
-- insights
+- organizational model
+- decentralized structure
+- independent experts
+- distributed work
+- networked collaboration
 
 ## Sources
 
