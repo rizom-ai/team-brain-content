@@ -8,12 +8,11 @@ The team members coordinated a meeting, with one participant joining from their 
 
 ## Keywords
 
-- decentralization
-- distributed work
-- independent experts
-- organizational design
-- talent enablement
-- collaborative networks
+- knowledge management
+- collaboration
+- information sharing
+- productivity
+- AI assistant
 
 ## Sources
 
