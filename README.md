@@ -17,7 +17,10 @@ Team Brain transforms your team's scattered knowledge into a unified intelligenc
 ## Meet Marco, Your Knowledge Coordinator
 
 Team Brain has a personality - Marco, your team knowledge coordinator. Marco's role is to:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Maintain team documentation
 - Track decisions
 - Facilitate knowledge sharing
@@ -47,30 +50,45 @@ All AI processing happens on-demand. Private conversations remain private unless
 ## Ways to Interact
 
 ### Matrix Chat (Primary)
+<<<<<<< HEAD
 
 Best for: Quick questions, sharing links, team discussions
 
+=======
+Best for: Quick questions, sharing links, team discussions
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Type messages naturally - Team Brain watches and learns
 - Use commands like `!help`, `!search`, `!summary-daily`
 - Links shared in chat are automatically captured
 
 ### Web Interface
+<<<<<<< HEAD
 
 Access at: https://babal.io
 Best for: Browsing, reading longer content, visual overview
 
+=======
+Access at: https://babal.io
+Best for: Browsing, reading longer content, visual overview
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Browse all captured knowledge
 - Read full articles and summaries
 - Navigate by topics
 - Review team insights
 
 ### API (Model Context Protocol)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 Access at: https://api.babal.io/mcp
 Best for: AI assistants, Claude Desktop, custom integrations
 
 MCP (Model Context Protocol) is Anthropic's standard for AI tool integration:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Connect Team Brain to Claude Desktop app
 - Let AI assistants access your team knowledge
 - Build custom automations and workflows
@@ -79,28 +97,40 @@ MCP (Model Context Protocol) is Anthropic's standard for AI tool integration:
 ## Common Workflows
 
 ### Documenting a Client Meeting
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 1. During/after the meeting, share key links discussed
 2. Write a brief note with decisions made
 3. Team Brain will extract, categorize, and connect to existing knowledge
 4. Tomorrow's summary will include meeting highlights
 
 ### Researching Past Decisions
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 1. Ask in Matrix: "What did we decide about the authentication approach?"
 2. Or use: `!search authentication decision`
 3. Review the aggregated knowledge from all related discussions
 4. Find links to original sources and context
 
 ### Creating a Project Knowledge Base
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 1. Share all relevant project links in your team channel
 2. Add notes about project goals and constraints
 3. Team Brain automatically organizes by topic
 4. Access complete project context anytime via web or chat
 
 ### Generating Weekly Team Updates
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 1. Use `!summary-week` command
 2. Review the AI-generated summary of the week's activities
 3. Share with stakeholders or use for team meetings
@@ -130,24 +160,36 @@ Your team's knowledge stays under your control:
 ## Troubleshooting
 
 **Team Brain isn't responding in Matrix**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Check `!status` command
 - Verify you're in the correct room
 - Contact your admin if issues persist
 
 **Content isn't syncing with Git**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Use `!git-sync` to trigger manual sync
 - Check git repository permissions
 - Verify GIT_SYNC_TOKEN is configured
 
 **How do I know if my contribution was saved?**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Links show confirmation when captured
 - Check the web interface for your content
 
 **Can I edit or delete content?**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Yes, through Git or web interface
 - Changes sync on next git-sync cycle
 - Historical versions preserved in Git
@@ -155,7 +197,10 @@ Your team's knowledge stays under your control:
 ## Quick Reference
 
 ### Essential Commands
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - `!help` - Show all commands
 - `!search [query]` - Search knowledge base
 - `!summary-daily` - Today's summary
@@ -164,18 +209,29 @@ Your team's knowledge stays under your control:
 - `!status` - System health check
 
 ### Key URLs
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Web: https://babal.io
 - Preview: https://preview.babal.io
 - API: https://api.babal.io/mcp
 
 ### Support
+<<<<<<< HEAD
 
+=======
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
 - Admin: @yeehaa:rizom.ai
 - Documentation: This README
 - Repository: [team-brain-content on GitHub]
 
 ---
 
+<<<<<<< HEAD
 _Team Brain - Turning collective knowledge into competitive advantage_
 _Powered by Brain architecture and Claude AI_
+=======
+*Team Brain - Turning collective knowledge into competitive advantage*
+*Powered by Brain architecture and Claude AI*
+>>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
