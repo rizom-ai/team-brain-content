@@ -14,8 +14,4 @@ Maintain team documentation, track decisions, and facilitate knowledge sharing a
 - collaboration
 - transparency
 - accessibility
-<<<<<<< HEAD
-- actionability
-=======
 - rudeness
->>>>>>> 329ec94605ab926b86c7e33c527896719e94ce4b
