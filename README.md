@@ -22,7 +22,6 @@ Transform scattered knowledge into unified intelligence
 Your AI knowledge coordinator
 
 Scout automatically:
-
 - Maintains documentation
 - Tracks decisions
 - Extracts topics
@@ -47,7 +46,6 @@ Scout automatically:
 **Get answers from team knowledge**
 
 Try these:
-
 - "What projects are we working on?"
 - "What did we decide about authentication?"
 - "What tools does the team use?"
@@ -87,26 +85,12 @@ No commands needed!
 **Scout organizes everything**
 
 **Topics:** Extracted from content
-
 - No manual tagging needed
 - Updated automatically
 
 **Summaries:** Created from conversations
-
 - Key points captured
 - Daily digests available
-
----
-
-## Exercise: Topics & Summaries
-
-**Hands-on practice**
-
-1. Have a conversation about a project (3-4 messages)
-2. Use `/topics-list` to see extracted topics
-3. Use `/summary-list` to see summaries
-4. Visit https://babal.io
-5. Click into a topic to see related content
 
 ---
 
@@ -115,7 +99,6 @@ No commands needed!
 **Website access**
 
 Visit https://babal.io to:
-
 - See all captured content
 - Browse by topics
 - Read summaries
@@ -160,7 +143,6 @@ Team Brain works with Claude Desktop
 Endpoint: `https://api.babal.io/mcp`
 
 Ask Claude to search team knowledge
-
 - "What are our main topics?"
 - "Search for deployment decisions"
 - Full access to your knowledge base
