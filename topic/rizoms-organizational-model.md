@@ -8,14 +8,16 @@ Based on the limited information provided, Rizom seems to have a decentralized, 
 
 ## Keywords
 
-- organizational model
-- culture
-- independent experts
-- autonomous work
-- distributed teams
-- empowerment
-- professional networks
+- organizational strategy
+- decentralized structure
+- collaborative culture
+- empowered experts
+- adaptability
+- knowledge sharing
+- talent collective
+- professional work
 
 ## Sources
 
 - Executive Demo (matrix-!ZLXtMh987Y74zTjjf1ZDe7Qqt-KxVFzdDMBhmPg5HVg) [conversation]
+- team-brain-dev (matrix-!zz1aYAmFXRKBqMxXUSEbtE8x49TuSm0uZIzFFBniCWk) [conversation]
