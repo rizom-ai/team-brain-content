@@ -73,11 +73,10 @@ No commands needed!
 
 **Hands-on practice**
 
-1. Share a technical article URL
-2. Share a documentation page URL
-3. Share a blog post URL
-4. Visit https://preview.babal.io/links
-5. Find all 3 links captured
+1. Share an article URL
+2. Type !link-list
+3. Visit https://preview.babal.io/links
+5. Find your links captured in both places
 
 ---
 
