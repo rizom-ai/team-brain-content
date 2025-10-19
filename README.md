@@ -1,8 +1,6 @@
-# Welcome to Team Brain!
+# Get Started with Team Brain
 
 **Your team's knowledge management system**
-
-Get started in 30 minutes
 
 ---
 
