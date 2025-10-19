@@ -48,9 +48,9 @@ Scout automatically:
 
 Try these:
 
-- "@scout, what projects are we working on?"
-- "What did we decide about a documentation tool @scout"
-- "@scout, what tools does the team use?"
+- @scout, what projects are we working on?
+- Did we decide about a documentation tool @scout
+- @scout, what tools does the team use?
 
 Scout searches everything you've captured
 
