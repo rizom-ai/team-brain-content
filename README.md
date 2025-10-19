@@ -1,4 +1,4 @@
-# Welcome to Team Brain! 🧠
+# Welcome to Team Brain!
 
 **Your team's knowledge management system**
 
