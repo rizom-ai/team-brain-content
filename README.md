@@ -35,8 +35,8 @@ Scout automatically:
 **Verify it's working**
 
 1. Open your Matrix room
-2. Send: `Hello Scout!`
-3. Wait for response (2-5 seconds)
+2. Send: `Hello @scout!`
+3. Wait for response 
 
 ✓ Team Brain is ready!
 
@@ -48,9 +48,9 @@ Scout automatically:
 
 Try these:
 
-- "What projects are we working on?"
-- "What did we decide about authentication?"
-- "What tools does the team use?"
+- "@scout, What projects are we working on?"
+- "What did we decide about authentication? @scout"
+- "@scout What tools does the team use?"
 
 Scout searches everything you've captured
 
