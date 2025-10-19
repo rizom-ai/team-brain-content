@@ -77,7 +77,7 @@ No commands needed!
 1. Share a technical article URL
 2. Share a documentation page URL
 3. Share a blog post URL
-4. Visit https://babal.io
+4. Visit https://preview.babal.io/links
 5. Find all 3 links captured
 
 ---
@@ -103,8 +103,8 @@ No commands needed!
 **Hands-on practice**
 
 1. Have a conversation about a project (3-4 messages)
-2. Use `/topics-list` to see extracted topics
-3. Use `/summary-list` to see summaries
+2. Use `!topics-list` to see extracted topics
+3. Use `!summary-list` to see summaries
 4. Visit https://babal.io
 5. Click into a topic to see related content
 
@@ -201,10 +201,11 @@ Ask Claude to search team knowledge
 
 **Essential Commands**
 
-- `/help` - Show all commands
-- `/topics-list` - View topics
-- `/summary-list` - View summaries
-- `/git-sync` - Manual sync
+- `!help` - Show all commands
+- `!topics-list` - View topics
+- `!summary-list` - View summaries
+
+---
 
 **Key URLs**
 
