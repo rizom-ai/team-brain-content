@@ -61,10 +61,9 @@ Scout searches everything you've captured
 **Share URLs, Scout does the rest**
 
 1. Paste any URL in chat
-2. Wait 10-20 seconds
-3. Scout extracts content
-4. Generates summary
-5. Identifies topics
+2. Scout extracts content
+3. Generates summary
+4. Identifies topics
 
 No commands needed!
 
