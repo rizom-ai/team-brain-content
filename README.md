@@ -1,10 +1,10 @@
-# Get Started with Team Brain
+# Get Started with Recall
 
-**Your team's knowledge management system**
+**Instant recall of team knowledge**
 
 ---
 
-## What is Team Brain?
+## What is Recall?
 
 Transform scattered knowledge into unified intelligence
 
@@ -34,9 +34,9 @@ Scout automatically:
 
 1. Open your Matrix room
 2. Send: `Hello @scout!`
-3. Wait for response 
+3. Wait for response
 
-✓ Team Brain is ready!
+✓ Recall is ready!
 
 ---
 
@@ -74,7 +74,7 @@ No commands needed!
 1. Share an article URL
 2. Type `!link-list`
 3. Visit https://preview.babal.io/links
-5. Find your links captured in both places
+4. Find your links captured in both places
 
 ---
 
@@ -121,7 +121,7 @@ Visit https://babal.io to:
 
 ## Daily Habits
 
-**Make Team Brain effective**
+**Make Recall effective**
 
 ✓ Share links as they come up
 ✓ Ask Scout when you need info
@@ -151,7 +151,7 @@ Use `/git-sync` to trigger manual sync
 
 **Connect to AI assistants**
 
-Team Brain works with Claude Desktop
+Recall works with Claude Desktop
 
 Endpoint: `https://api.babal.io/mcp`
 
@@ -238,6 +238,6 @@ Start capturing your team's knowledge
 
 Every link, every decision, every insight
 
-**Team Brain - Collective knowledge, competitive advantage**
+**Recall - Your team's knowledge, instantly accessible**
 
 _Powered by Rizom_
