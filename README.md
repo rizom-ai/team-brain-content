@@ -48,9 +48,9 @@ Scout automatically:
 
 Try these:
 
-- @scout, what projects are we working on?
-- Did we decide about a documentation tool @scout
-- @scout, what tools does the team use?
+- `@scout`, what projects are we working on?
+- Did we decide about a documentation tool `@scout`
+- `@scout`, what tools does the team use?
 
 Scout searches everything you've captured
 
@@ -74,7 +74,7 @@ No commands needed!
 **Hands-on practice**
 
 1. Share an article URL
-2. Type !link-list
+2. Type `!link-list`
 3. Visit https://preview.babal.io/links
 5. Find your links captured in both places
 
