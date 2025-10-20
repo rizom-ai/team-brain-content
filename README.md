@@ -1,6 +1,6 @@
 # Get Started with Recall
 
-**Your team's collective brain**
+**Your Team's Collective Brain**
 
 ---
 
