@@ -112,7 +112,7 @@ Visit https://babal.io to:
 **Make Recall effective**
 
 ✓ Share links as they come up
-✓ Ask Scout when you need info
+✓ Ask Recall when you need info
 ✓ Check topics weekly
 ✓ Visit website regularly
 
@@ -153,19 +153,17 @@ Ask Claude to search team knowledge
 
 ## How It Works
 
-**AI Processing**
+**Knowledge Processing**
 
-- Claude AI extracts content
+- AI extracts content
 - Semantic topic analysis
 - Automatic summarization
-- 10-30 seconds per link
 
 **Storage**
 
 - Markdown files (human-readable)
 - Git repository (version control)
-- SQLite database (fast search)
-- Vector embeddings (semantic search)
+- SQLite database with vector embeddings (fast, semantic search)
 
 ---
 
@@ -183,6 +181,8 @@ Ask Claude to search team knowledge
 
 ## Quick Reference
 
+---
+
 **Essential Commands**
 
 - `!help` - Show all commands
@@ -196,6 +196,9 @@ Ask Claude to search team knowledge
 - Preview: https://preview.babal.io
 - API: https://api.babal.io/mcp
 
+- Recall Content: https://github.com/rizom-ai/team-brain-content
+- Brains Code: https://github.com/rizom-ai/brains 
+
 ---
 
 ## Support
@@ -208,11 +211,13 @@ Check `!help` for all commands
 
 ---
 
-## You're Ready! 🎉
+## You're Ready!
 
 Start capturing your team's knowledge
 
 Every link, every decision, every insight
+
+--- 
 
 **Recall - Your team's knowledge, instantly accessible**
 
