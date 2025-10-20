@@ -61,7 +61,7 @@ No commands needed!
 
 1. Share an article URL
 2. Type `!link-list`
-3. Visit https://preview.babal.io/links
+3. Visit https://recall.rizom.ai/links
 4. Find your links captured in both places
 
 ---
@@ -89,8 +89,6 @@ No commands needed!
 1. Have a conversation about a project (3-4 messages)
 2. Use `!topics-list` to see extracted topics
 3. Use `!summary-list` to see summaries
-4. Visit https://babal.io
-5. Click into a topic to see related content
 
 ---
 
@@ -98,7 +96,7 @@ No commands needed!
 
 **Website access**
 
-Visit https://babal.io to:
+Visit https://recall.rizom.ai to:
 
 - See all captured content
 - Browse by topics
@@ -151,15 +149,19 @@ Ask Claude to search team knowledge
 
 ---
 
-## How It Works
+# How It Works
 
-**Knowledge Processing**
+---
+
+## Knowledge Processing
 
 - AI extracts content
 - Semantic topic analysis
 - Automatic summarization
 
-**Storage**
+---
+
+## Storage
 
 - Markdown files (human-readable)
 - Git repository (version control)
@@ -179,7 +181,7 @@ Ask Claude to search team knowledge
 
 ---
 
-## Quick Reference
+# Quick Reference
 
 ---
 
@@ -203,9 +205,7 @@ Ask Claude to search team knowledge
 
 ---
 
-## Support
-
-**Need help?**
+## Need help?
 
 Admin: @yeehaa:rizom.ai
 
