@@ -190,6 +190,8 @@ Ask Claude to search team knowledge
 - `!topics-list` - View topics
 - `!summary-list` - View summaries
 
+---
+
 **Key URLs**
 
 - Website: https://babal.io
