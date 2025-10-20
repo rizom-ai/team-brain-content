@@ -1,30 +1,18 @@
 # Get Started with Recall
 
-**Your Team's Collective Brain**
+**Your team's collective brain**
 
 ---
 
-## What is Recall?
+## Meet Your AI knowledge coordinator
 
 Transform scattered knowledge into unified intelligence
 
-- Capture links automatically
-- Organize conversations with AI
-- Search everything
-- Collaborate seamlessly
-
----
-
-## Meet Recall
-
-Your AI knowledge coordinator
-
-Recall automatically:
-
-- Maintains documentation
-- Tracks decisions
-- Extracts topics
 - Provides instant answers
+- Capture links automatically
+- Summarizes conversations
+- Extracts topics
+- Collaborate seamlessly
 
 ---
 
@@ -33,7 +21,7 @@ Recall automatically:
 **Verify it's working**
 
 1. Open your Matrix room
-2. Send: `Hello @recall! What is up?`
+2. Send: `Hello @recall!`
 3. Wait for response
 
 ✓ Recall is ready!
@@ -73,7 +61,7 @@ No commands needed!
 
 1. Share an article URL
 2. Type `!link-list`
-3. Visit https://babal.io/links
+3. Visit https://preview.babal.io/links
 4. Find your links captured in both places
 
 ---
@@ -138,12 +126,12 @@ Start building your team's knowledge!
 
 All knowledge stored as Markdown in Git
 
-- Edit in Obsidian, HackMD
+- Edit in Obsidian, VS Code, HackMD
 - Version control for all changes
 - Sync automatically
 - Collaborate with Git workflows
 
-Use `!git-sync` to trigger manual sync
+Use `/git-sync` to trigger manual sync
 
 ---
 
@@ -170,6 +158,7 @@ Ask Claude to search team knowledge
 - Claude AI extracts content
 - Semantic topic analysis
 - Automatic summarization
+- 10-30 seconds per link
 
 **Storage**
 
@@ -204,6 +193,7 @@ Ask Claude to search team knowledge
 **Key URLs**
 
 - Website: https://babal.io
+- Preview: https://preview.babal.io
 - API: https://api.babal.io/mcp
 
 ---
