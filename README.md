@@ -22,7 +22,6 @@
 
 **Verify it's working**
 
-1. Go to: 
 1. Go to: [https://matrix.to/#/#recall-room:rizom.ai](https://matrix.to/#/#recall-room:rizom.ai)
 2. Send: `Hi @recall, how can you help me today?`
 3. Wait for response
