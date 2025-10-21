@@ -87,18 +87,8 @@ No commands needed!
 1. Have a conversation about a project (3-4 messages)
 2. Use `!topics-list` to see extracted topics
 3. Use `!summary-list` to see summaries
+4. Visit `https://recall.rizom.ai` to ee all captured content
 
----
-
-## Browse Your Knowledge
-
-
-Visit `https://recall.rizom.ai` to:
-
-- See all captured content
-- Browse by topics
-- Read summaries
-- Search everything
 ---
 
 ## Daily Habits
@@ -214,6 +204,9 @@ Every link, every decision, every insight
 
 --- 
 
-**Recall - Your team's knowledge, instantly accessible**
+## Recall
+**Your team's knowledge, instantly accessible**
 
 _Powered by Rizom_
+
+---
