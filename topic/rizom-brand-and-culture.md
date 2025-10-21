@@ -8,13 +8,11 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- Rizom
 - platform
-- independent experts
+- independent workforce
 - talent marketplace
-- freelancers
-- community
-- collaboration
+- freelance
+- future of work
 
 ## Sources
 
