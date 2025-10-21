@@ -201,12 +201,12 @@ Start capturing your team's knowledge
 
 Every link, every decision, every insight
 
-
 --- 
 
 ## Recall
 **Your team's knowledge, instantly accessible**
 
-_Powered by Rizom_
 
 ---
+
+_Powered by Rizom_
