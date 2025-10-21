@@ -8,9 +8,14 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- user support
-- assistance
-- help request
+- independent experts
+- talent marketplace
+- freelance
+- future of work
+- collaboration
+- platform
+- business tools
+- professional development
 
 ## Sources
 
