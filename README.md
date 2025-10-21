@@ -191,11 +191,9 @@ Ask Claude to search team knowledge
 
 ---
 
-## Need help?
+## Start capturing your team's knowledge
 
-Admin: `@yeehaa:rizom.ai`
-
-Check `!help` for all commands
+Need help: `@yeehaa:rizom.ai`
 
 ---
 
