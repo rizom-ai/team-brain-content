@@ -162,9 +162,7 @@ Ask Claude to search team knowledge
 
 ---
 
-## Your Data, Your Control
-
-**Privacy & Security**
+## Privacy & Security
 
 ✓ Markdown on Github or self-hosted Git
 ✓ E2E encryption supported
