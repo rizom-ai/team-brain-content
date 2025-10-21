@@ -64,7 +64,7 @@ No commands needed!
 
 1. Share an article URL
 3. Visit https://recall.rizom.ai/links
-4. Find your links captured in both places
+4. Find your links captured
 
 ---
 
@@ -173,7 +173,8 @@ Ask Claude to search team knowledge
 **Essential Commands**
 
 - `!help` - Show all commands
-- `!identity` - Show the agent's identity
+-  `!status` - Show Recall's status
+- `!identity` - Show the Recall's identity
 
 ---
 
