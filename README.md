@@ -51,8 +51,6 @@ Recall searches everything you've captured
 
 ## Capture Links
 
-**Share URLs, Recall does the rest**
-
 1. Paste any URL in chat
 2. Scout extracts content
 3. Generates summary
@@ -73,9 +71,10 @@ No commands needed!
 
 ## Topic Extraction
 
-- automatically captured from conversations
+- Just talk like you normally would
+- Common topics are extracted from the conversations
 - No manual tagging needed
-- Updated automatically
+- Topics are automatically updated over time
 
 ---
 
@@ -95,16 +94,17 @@ No commands needed!
 
 ---
 
-## Daily Habits
+## Make Recall effective
 
-**Make Recall effective**
+---
+
+# Daily Habits
+**Start building your team's knowledge!**
 
 ✓ Share links as they come up
 ✓ Ask Recall when you need info
 ✓ Check topics weekly
 ✓ Visit website regularly
-
-Start building your team's knowledge!
 
 ---
 
@@ -191,23 +191,18 @@ Ask Claude to search team knowledge
 
 ---
 
-## Need help?
+## Start capturing your team's knowledge
+
+**Need help?**
 
 Admin: `@yeehaa:rizom.ai`
 
 Check `!help` for all commands
 
----
-
-## Start capturing your team's knowledge
-
-** Every link, every decision, every insight**
-
-
 --- 
 
-## Recall
+# Recall
 
-**Your team's knowledge, instantly accessible**
+**Powered by Rizom**
 
-_Powered by Rizom_
+---
