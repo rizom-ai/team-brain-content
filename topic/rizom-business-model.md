@@ -8,11 +8,13 @@ The context indicates that Rizom's business is focused on the 'future of work', 
 
 ## Keywords
 
-- business model
-- talent coordination
 - independent workforce
-- future of work
-- platform strategy
+- freelance
+- talent management
+- collaboration
+- community
+- platform
+- business growth
 
 ## Sources
 

@@ -63,7 +63,6 @@ No commands needed!
 ## Exercise
 
 1. Share an article URL
-2. Type `!link-list`
 3. Visit https://recall.rizom.ai/links
 4. Find your links captured in both places
 
@@ -88,9 +87,8 @@ No commands needed!
 ## Exercise
 
 1. Have a conversation about a project (3-4 messages)
-2. Use `!topics-list` to see extracted topics
-3. Use `!summary-list` to see summaries
-4. Visit [https://recall.rizom.ai](https://recall.rizom.ai) to see all captured content
+2. Visit [https://recall.rizom.ai/topics](https://recall.rizom.ai/topics) 
+3. Visit [https://recall.rizom.ai/summaries](https://recall.rizom.ai/summaries) 
 
 ---
 
@@ -175,9 +173,7 @@ Ask Claude to search team knowledge
 **Essential Commands**
 
 - `!help` - Show all commands
-- `!link-list` - View captured links
-- `!topics-list` - View topics
-- `!summary-list` - View summaries
+- `!identity` - Show the agent's identity
 
 ---
 
