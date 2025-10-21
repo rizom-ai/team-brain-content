@@ -191,18 +191,16 @@ Ask Claude to search team knowledge
 
 ---
 
-## Start capturing your team's knowledge
-
-**Need help?**
+## Need help?
 
 Admin: `@yeehaa:rizom.ai`
 
 Check `!help` for all commands
 
---- 
+---
 
-# Recall
+# Recall: Powered by Rizom
 
-**Powered by Rizom**
+**Capture every link, every decision, every insight**
 
 ---
