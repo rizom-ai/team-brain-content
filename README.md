@@ -21,7 +21,7 @@ Transform scattered knowledge into unified intelligence
 **Verify it's working**
 
 1. Open your Matrix room
-2. Send: `Hello @recall!`
+2. Send: `Hi @recall, how can you help me today?`
 3. Wait for response
 
 ✓ Recall is ready!
@@ -57,8 +57,6 @@ No commands needed!
 
 ## Exercise: Capture Content
 
-**Hands-on practice**
-
 1. Share an article URL
 2. Type `!link-list`
 3. Visit https://recall.rizom.ai/links
@@ -68,7 +66,6 @@ No commands needed!
 
 ## Automatic Organization
 
-**Recall organizes everything**
 
 **Topics:** Extracted from conversations
 
@@ -84,8 +81,6 @@ No commands needed!
 
 ## Exercise: Topics & Summaries
 
-**Hands-on practice**
-
 1. Have a conversation about a project (3-4 messages)
 2. Use `!topics-list` to see extracted topics
 3. Use `!summary-list` to see summaries
@@ -94,15 +89,13 @@ No commands needed!
 
 ## Browse Your Knowledge
 
-**Website access**
 
-Visit https://recall.rizom.ai to:
+Visit `https://recall.rizom.ai` to:
 
 - See all captured content
 - Browse by topics
 - Read summaries
 - Search everything
-
 ---
 
 ## Daily Habits
@@ -129,7 +122,7 @@ All knowledge stored as Markdown in Git
 - Sync automatically
 - Collaborate with Git workflows
 
-Use `/git-sync` to trigger manual sync
+Use `!git-sync` to trigger manual sync
 
 ---
 
@@ -137,9 +130,9 @@ Use `/git-sync` to trigger manual sync
 
 **Connect to AI assistants**
 
-Recall works with Claude Desktop
+Recall works with MCP clients such as Claude Desktop
 
-Endpoint: `https://api.babal.io/mcp`
+Endpoint: `https://recall.rizom.ai/mcp`
 
 Ask Claude to search team knowledge
 
@@ -173,10 +166,9 @@ Ask Claude to search team knowledge
 
 **Privacy & Security**
 
-✓ Private or self-hosted Git
-✓ Your own infrastructure
+✓ Markdown on Github or self-hosted Git
 ✓ E2E encryption supported
-✓ Complete data portability
+✓ SQLite provides complete data portability
 ✓ Can run on-premises
 
 ---
@@ -196,18 +188,17 @@ Ask Claude to search team knowledge
 
 **Key URLs**
 
-- Website: https://babal.io
-- Preview: https://preview.babal.io
-- API: https://api.babal.io/mcp
+- Website: `https://recall.rizom.ai`
+- API: `https://recall.rizom.ai/mcp`
 
-- Recall Content: https://github.com/rizom-ai/team-brain-content
-- Brains Code: https://github.com/rizom-ai/brains 
+- Recall Content: `https://github.com/rizom-ai/team-brain-content`
+- Brains Code: `https://github.com/rizom-ai/brains`
 
 ---
 
 ## Need help?
 
-Admin: @yeehaa:rizom.ai
+Admin: `@yeehaa:rizom.ai`
 
 Check `!help` for all commands
 
