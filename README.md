@@ -22,7 +22,8 @@
 
 **Verify it's working**
 
-1. Open your Matrix room
+1. Open Element/Matrix
+2. Go to: `https://matrix.to/#/#recall-room:rizom.ai`
 2. Send: `Hi @recall, how can you help me today?`
 3. Wait for response
 
