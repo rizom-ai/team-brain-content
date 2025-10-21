@@ -8,7 +8,7 @@
 
 ---
 
-## Recall proved
+## Recall provides
 
 - Provides instant answers
 - Capture links automatically
@@ -87,7 +87,7 @@ No commands needed!
 1. Have a conversation about a project (3-4 messages)
 2. Use `!topics-list` to see extracted topics
 3. Use `!summary-list` to see summaries
-4. Visit `https://recall.rizom.ai` to ee all captured content
+4. Visit `https://recall.rizom.ai` to see all captured content
 
 ---
 
@@ -195,18 +195,15 @@ Check `!help` for all commands
 
 ---
 
-## You're Ready!
+## Start capturing your team's knowledge
 
-Start capturing your team's knowledge
+** Every link, every decision, every insight**
 
-Every link, every decision, every insight
 
 --- 
 
 ## Recall
+
 **Your team's knowledge, instantly accessible**
-
-
----
 
 _Powered by Rizom_
