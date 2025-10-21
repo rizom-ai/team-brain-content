@@ -1,12 +1,14 @@
 # Get Started with Recall
 
-**Your team's collective brain**
+**Transform scattered knowledge into unified intelligence**
 
 ---
 
-## Meet Your AI knowledge coordinator
+# Meet Your Team's Collective Brain
 
-Transform scattered knowledge into unified intelligence
+---
+
+## Recall proved
 
 - Provides instant answers
 - Capture links automatically
@@ -23,6 +25,7 @@ Transform scattered knowledge into unified intelligence
 1. Open your Matrix room
 2. Send: `Hi @recall, how can you help me today?`
 3. Wait for response
+
 
 ✓ Recall is ready!
 
@@ -55,7 +58,7 @@ No commands needed!
 
 ---
 
-## Exercise: Capture Content
+## Exercise
 
 1. Share an article URL
 2. Type `!link-list`
@@ -79,7 +82,7 @@ No commands needed!
 
 ---
 
-## Exercise: Topics & Summaries
+## Exercise
 
 1. Have a conversation about a project (3-4 messages)
 2. Use `!topics-list` to see extracted topics
@@ -111,9 +114,11 @@ Start building your team's knowledge!
 
 ---
 
-## Advanced: Git Sync
+# Advanced Features
 
-**Edit content anywhere**
+---
+
+## Edit content anywhere
 
 All knowledge stored as Markdown in Git
 
@@ -126,9 +131,7 @@ Use `!git-sync` to trigger manual sync
 
 ---
 
-## Advanced: MCP Integration
-
-**Connect to AI assistants**
+## Connect to AI assistants
 
 Recall works with MCP clients such as Claude Desktop
 
@@ -164,7 +167,7 @@ Ask Claude to search team knowledge
 
 ## Privacy & Security
 
-✓ Markdown on Github or self-hosted Git
+✓ Host data on Github or self-hosted Git
 ✓ E2E encryption supported
 ✓ SQLite provides complete data portability
 ✓ Can run on-premises
