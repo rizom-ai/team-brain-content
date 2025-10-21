@@ -31,9 +31,9 @@
 
 ---
 
-## Ask Questions
+## Exercise
 
-**Get answers from team knowledge**
+**Recall answers from team knowledge**
 
 Try these:
 
@@ -42,6 +42,10 @@ Try these:
 - `@recall`, what tools does the team use?
 
 Recall searches everything you've captured
+
+---
+
+# Automatic Organization
 
 ---
 
@@ -67,15 +71,15 @@ No commands needed!
 
 ---
 
-## Automatic Organization
+## Topic Extraction
 
-
-**Topics:** Extracted from conversations
-
+- automatically captured from conversations
 - No manual tagging needed
 - Updated automatically
 
-**Summaries:** Created from conversations
+---
+
+## Summary Generation
 
 - Key points captured
 - Digests available
