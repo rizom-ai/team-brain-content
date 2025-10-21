@@ -8,14 +8,13 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- collaboration
-- shared experiences
-- social connection
+- Rizom
+- platform
+- independent experts
+- talent marketplace
+- freelancers
 - community
-- happiness
-- well-being
-- group activities
-- mental health
+- collaboration
 
 ## Sources
 
