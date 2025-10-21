@@ -120,7 +120,7 @@ Start building your team's knowledge!
 
 ## Edit content anywhere
 
-All knowledge stored as Markdown in Git
+**All knowledge stored as Markdown in Git**
 
 - Edit in Obsidian, VS Code, HackMD
 - Version control for all changes
@@ -133,7 +133,7 @@ Use `!git-sync` to trigger manual sync
 
 ## Connect to AI assistants
 
-Recall works with MCP clients such as Claude Desktop
+**Recall works with MCP clients such as Claude Desktop**
 
 Endpoint: `https://recall.rizom.ai/mcp`
 
