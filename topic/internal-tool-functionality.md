@@ -8,13 +8,9 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- internal tools
-- permissions
-- commands
-- troubleshooting
-- documentation
-- Joanna
-- Anand
+- user support
+- assistance
+- help request
 
 ## Sources
 
