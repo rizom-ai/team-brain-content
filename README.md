@@ -91,7 +91,7 @@ No commands needed!
 1. Have a conversation about a project (3-4 messages)
 2. Use `!topics-list` to see extracted topics
 3. Use `!summary-list` to see summaries
-4. Visit `https://recall.rizom.ai` to see all captured content
+4. Visit [https://recall.rizom.ai](https://recall.rizom.ai) to see all captured content
 
 ---
 
@@ -130,7 +130,7 @@ Use `!git-sync` to trigger manual sync
 
 **Recall works with MCP clients such as Claude Desktop**
 
-Endpoint: `https://recall.rizom.ai/mcp`
+Endpoint: [https://recall.rizom.ai/mcp](https://recall.rizom.ai/mcp)
 
 Ask Claude to search team knowledge
 
@@ -184,12 +184,12 @@ Ask Claude to search team knowledge
 
 **Key URLs**
 
-- Website: `https://recall.rizom.ai`
-- API: `https://recall.rizom.ai/mcp`
+- Website: [https://recall.rizom.ai](https://recall.rizom.ai)
+- API: [https://recall.rizom.ai/mcp](https://recall.rizom.ai/mcp)
 
-- Recall Content: `https://github.com/rizom-ai/team-brain-content`
-- Brains Code: `https://github.com/rizom-ai/brains`
 
+- Recall Content: [https://github.com/rizom-ai/team-brain-content](https://github.com/rizom-ai/team-brain-content)
+- Brains Code: [https://github.com/rizom-ai/brains](https://github.com/rizom-ai/brains)
 ---
 
 ## Start capturing your team's knowledge
