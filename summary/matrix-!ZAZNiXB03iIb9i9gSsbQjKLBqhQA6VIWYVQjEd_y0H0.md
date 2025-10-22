@@ -10,7 +10,7 @@ totalMessages: 85
 
 ### [2025-10-22T09:23:59.008Z] Rizom's Societal Mission
 
-The user has asked about the main societal issue that Rizom, the company behind the Recall knowledge platform, is trying to solve. Based on the information in the knowledge base, it seems Rizom's core mission is to create a more supportive and collaborative environment for independent experts and specialized talent in the modern workforce. The key goal is to empower this segment of the workforce and unlock their potential to drive innovation and positive change. Rizom aims to address the challenges that independent experts often face, such as lack of coordination, limited collaboration opportunities, and difficulties in finding meaningful work. By building a platform and ecosystem to support independent experts, Rizom hopes to foster a "Future of Work is Play" culture where specialized talent can thrive.
+The user has informed about the main societal issue that Rizom, the company behind the Recall knowledge platform, is trying to solve. Based on the information in the knowledge base, it seems Rizom's core mission is to create a more supportive and collaborative environment for independent experts and specialized talent in the modern workforce. The key goal is to empower this segment of the workforce and unlock their potential to drive innovation and positive change. Rizom aims to address the challenges that independent experts often face, such as lack of coordination, limited collaboration opportunities, and difficulties in finding meaningful work. By building a platform and ecosystem to support independent experts, Rizom hopes to foster a "Future of Work is Play" culture where specialized talent can thrive.
 
 ---
 
