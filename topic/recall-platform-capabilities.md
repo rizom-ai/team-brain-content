@@ -5,7 +5,6 @@ Recall is a knowledge management platform that provides a variety of features to
 
 ## Content
 Recall offers the following key capabilities:
-
 - Instant Answers: Recall can quickly surface relevant information from the team's knowledge base to provide instant answers to questions.
 - Link Capture: Recall automatically captures links and metadata as users share information, helping to build a centralized repository.
 - Knowledge Organization: Recall allows users to create topics, summaries, and keywords to structure and categorize the team's collective knowledge.
@@ -13,12 +12,14 @@ Recall offers the following key capabilities:
 
 ## Keywords
 
-- knowledge management
-- information retrieval
+- projects
+- initiatives
+- priorities
 - collaboration
-- knowledge sharing
-- intelligence
-- Recall platform
+- knowledge management
+- professional networking
+- HR processes
+- tool integrations
 
 ## Sources
 
