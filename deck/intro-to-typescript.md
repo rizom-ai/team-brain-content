@@ -3,7 +3,6 @@ title: TypeScript Introduction
 description: Learn TypeScript basics and best practices
 author: Recall Team
 ---
-
 # Welcome to TypeScript
 
 A comprehensive introduction to TypeScript fundamentals
