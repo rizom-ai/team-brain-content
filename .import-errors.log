@@ -4,8 +4,7 @@
 2025-10-22T08:55:24.743Z - decks/intro-to-typescript.md: Entity type registration failed for decks: No adapter registered for entity type
 → decks/intro-to-typescript.md.invalid
 
-2025-10-22T09:54:04.355Z - deck/tutorial.md: [
-  {
+2025-10-22T10:06:10.838Z - [RECOVERED] deck/tutorial.md
     "code": "invalid_type",
     "expected": "string",
     "received": "undefined",
@@ -15,5 +14,4 @@
     "message": "Required"
   }
 ]
-→ deck/tutorial.md.invalid
-
+2025-10-22T10:06:10.838Z - [RECOVERED] deck/tutorial.md
