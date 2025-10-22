@@ -9,13 +9,11 @@ The discussion includes references to issues with permissions for a specific com
 ## Keywords
 
 - independent experts
-- talent marketplace
-- freelance
-- future of work
+- specialized talent
+- workforce challenges
 - collaboration
-- platform
-- business tools
-- professional development
+- talent coordination
+- future of work
 
 ## Sources
 
