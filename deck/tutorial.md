@@ -3,7 +3,6 @@ title: Tutorial
 description: First steps to get started with Rizom
 author: Yeehaa
 ---
-
 # Get Started with Recall
 
 **Transform scattered knowledge into unified intelligence**
