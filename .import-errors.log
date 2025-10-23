@@ -24,14 +24,12 @@
 2025-10-23T06:32:27.319Z - deck/about.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
 → deck/about.md.invalid
 
-2025-10-23T06:32:27.319Z - deck/2025.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
-→ deck/2025.md.invalid
+2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
 
 2025-10-23T06:32:27.323Z - deck/cococo.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
 → deck/cococo.md.invalid
 
-2025-10-23T06:37:32.146Z - deck/2025.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
-→ deck/2025.md.invalid
+2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
 
 2025-10-23T06:37:32.151Z - deck/declaration.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
 → deck/declaration.md.invalid
