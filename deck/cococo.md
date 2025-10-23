@@ -67,8 +67,9 @@ Rhizomes create resilient ecosystems by:
 ---
 
 
-Our organization is **organic**, **decentralized**, and based on **aligned**interests.
+Our organization is **organic**, **decentralized**, and based on **aligned** interests.
 
+---
 
 We create a resilient ecosystem by:
 
@@ -110,7 +111,6 @@ We create a resilient ecosystem by:
 + We provide access to a thriving **ecosystem** of like-minded professionals and organizations
 
 + We can periodically **influence** the future of the collective
-
 
 
 #### How I Contribute
