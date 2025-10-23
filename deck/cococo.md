@@ -38,17 +38,17 @@ Every misfit is a potential **innovator**. Yet too often, these creative minds n
 
 ---
 
-
 By ensuring that **the future of work is play**.
 
+---
 
 ## Why do we call ourselves Rizom?
 
 ---
 
-
 Our name comes from 'rhizome'. These are plant stem that grow sideways under the ground. A rhizome not only sprouts its own roots and shoots, but also connects to vast fungal networks that link it to other plants and trees, thereby creating an intricate **living ecosystem** beneath our feet.
 
+---
 
 Rhizomes create resilient ecosystems by:
 
