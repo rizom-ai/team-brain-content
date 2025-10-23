@@ -1,5 +1,5 @@
 ---
-title: Tutorial
+title: Recall Tutorial
 description: First steps to get started with Rizom
 author: Yeehaa
 ---
