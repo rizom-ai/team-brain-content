@@ -1,7 +1,7 @@
 ---
 title: The future of work is play
 author: Yeehaa
-date: 2024-11-25
+description: First Description of what Rizom is an can be
 ---
 
 # The future of work is play

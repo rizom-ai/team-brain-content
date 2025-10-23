@@ -1,7 +1,7 @@
 ---
 title: Community, Collective, Core
 author: Yeehaa
-date: 2024-11-25
+description: Core Principles of Rizom
 ---
 
 # Community, Collective, Core
