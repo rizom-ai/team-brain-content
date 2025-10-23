@@ -30,8 +30,7 @@
 
 2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
 
-2025-10-23T06:37:32.151Z - deck/declaration.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
-→ deck/declaration.md.invalid
+2025-10-23T07:09:52.972Z - [RECOVERED] deck/declaration.md
 
 2025-10-23T06:43:35.463Z - [RECOVERED] deck/cococo.md
 
