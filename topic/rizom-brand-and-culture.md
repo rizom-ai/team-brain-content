@@ -8,13 +8,12 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- revenue model
-- platform fees
-- premium services
-- partnerships
-- data monetization
-- pricing
-- business model
+- knowledge management
+- collaboration
+- remote work
+- independent experts
+- productivity
+- intelligence
 
 ## Sources
 

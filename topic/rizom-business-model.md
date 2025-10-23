@@ -9,13 +9,11 @@ The context indicates that Rizom's business is focused on the 'future of work', 
 ## Keywords
 
 - future of work
-- automation
-- AI
-- workforce dynamics
-- employment trends
-- work arrangements
-- worker well-being
-- social impact
+- independent experts
+- meaningful work
+- knowledge management
+- collaboration
+- bureaucracy
 
 ## Sources
 
