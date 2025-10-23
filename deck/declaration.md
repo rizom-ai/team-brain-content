@@ -1,9 +1,8 @@
 ---
 title: The future of work is play
-author: Yeehaa
 description: Rizom's first public attempt to declare what it is and can be
+author: Yeehaa
 ---
-
 # The future of work is play
 
 ---
@@ -108,4 +107,3 @@ We empower people and organizations to thrive by removing blockages to **unlock 
 ---
 
 Of course, Rizom is open to anyone who is excited to join us in our mission: [https://rizom.ai/rsvp](https://rizom.ai/rsvp)
-
