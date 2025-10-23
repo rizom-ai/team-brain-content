@@ -1,9 +1,8 @@
 ---
-title: Community, Collective, Core
-author: Yeehaa
+title: 'Community, Collective, Core'
 description: Core Principles of Rizom
+author: Yeehaa
 ---
-
 # Community, Collective, Core
 
 ---
