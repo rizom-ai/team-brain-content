@@ -104,8 +104,6 @@ We create a resilient ecosystem by:
 
 ### Community
 
----
-
 #### What we offer
 
 + We provide access to a thriving **ecosystem** of like-minded professionals and organizations
