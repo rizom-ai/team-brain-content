@@ -1,8 +1,8 @@
 ---
 conversationId: matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0
 userId: '@samlocke:rizom.ai'
-messageId: utr_1rD1MK4f
-timestamp: '2025-10-22T10:13:01.674Z'
+messageId: _JUiTqEAotMl
+timestamp: '2025-10-23T06:25:00.775Z'
 ---
 # The Death of the Corporate Job
 
@@ -10,17 +10,16 @@ timestamp: '2025-10-22T10:13:01.674Z'
 https://thestillwandering.substack.com/p/the-death-of-the-corporate-job
 
 ## Description
-An article discussing the changing nature of work and the decline of traditional corporate jobs.
+An analysis of the decline of traditional corporate jobs and the rise of remote and freelance work.
 
 ## Summary
-This article explores the shifting landscape of work, highlighting the decline of the traditional corporate job. It discusses how factors like technology, globalization, and changing employee preferences are leading to the "death" of the corporate job as we know it. The article delves into the rise of alternative work arrangements, such as freelancing, entrepreneurship, and the gig economy, as workers seek more flexibility, autonomy, and purpose in their careers. It also touches on the implications of these changes for companies, workers, and the overall economy.
+The article discusses how the corporate job model is becoming less common, with more people opting for remote, freelance, and entrepreneurial work arrangements. It explores the factors driving this shift, such as the impact of the COVID-19 pandemic, the desire for more flexibility and work-life balance, and the decline of job security and loyalty in large organizations. The author argues that the traditional 9-to-5 office job is becoming obsolete, and that the future of work will involve more distributed, decentralized, and independent forms of employment.
 
 ## Keywords
 
-- work
 - corporate jobs
-- gig economy
-- freelancing
+- remote work
+- freelance
 - entrepreneurship
 - future of work
 
@@ -28,7 +27,7 @@ This article explores the shifting landscape of work, highlighting the decline o
 thestillwandering.substack.com
 
 ## Captured
-2025-10-22T10:13:03.778Z
+2025-10-23T06:25:15.424Z
 
 ## Source
 
