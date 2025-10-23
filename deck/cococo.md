@@ -158,6 +158,7 @@ We create a resilient ecosystem by:
 
 ## Our Roadmap
 
+---
 
 ### March 2025
 
@@ -167,6 +168,7 @@ Onboard **10** collective **members**
 
 Establish a core of **5 owners**
 
+---
 
 ### December 2025
 
@@ -176,6 +178,7 @@ Complete **3** client and/or partner **projects**
 
 Make the collective **financially sustainable**
 
+---
 
 ### December 2027
 
