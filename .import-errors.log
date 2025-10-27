@@ -48,3 +48,6 @@
 2025-10-27T16:43:04.950Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
 → site-info/site-info.md.invalid
 
+2025-10-27T16:58:05.110Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+
