@@ -3,7 +3,6 @@ title: Fatality! Event Playbook
 description: Documentation for organizers of Fatality Events
 author: Yeehaa
 ---
-
 # Fatality! 
 **Event Playbook**
 
@@ -91,5 +90,3 @@ author: Yeehaa
 - When you happen to go out for drinks afterwards, make sure that everyone feels invited to join
 
 ---
-
-
