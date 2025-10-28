@@ -3,7 +3,6 @@ title: Fatality! Rizom Introduction
 description: What is Rizom and why do we host these events?
 author: Yeehaa
 ---
-
 # Fatality!
 
 **Solid grounds for collaboration**
