@@ -3,7 +3,6 @@ title: Fatality! Event Playbook
 description: Documentation for organizers of Fatality Events
 author: Yeehaa
 ---
-
 # Fatality! 
 **Event Playbook**
 
@@ -89,4 +88,3 @@ author: Yeehaa
 - Don't stretch this part, if done wrap up
 - Don't forget to thank people involved in the organization
 - When you happen to go out for drinks afterwards, make sure that everyone feels invited to join
-
