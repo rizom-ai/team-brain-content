@@ -19,7 +19,7 @@ Work is Play.**
 
 ---
 
-## Why do we need Rizom
+## Why do we need Rizom?
 
 ---
 
@@ -46,3 +46,5 @@ Fatality! is our **amuse-bouche**. A small, complimentary, single-bite dish to p
 ## We hope you'll enjoy it!
 
 https://rizom.ai
+
+https://www.linkedin.com/company/rizom-collective
