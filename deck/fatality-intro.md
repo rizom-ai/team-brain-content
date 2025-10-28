@@ -13,7 +13,7 @@ author: Yeehaa
 
 ---
 
-We are Rizom. A a global collective of independent
+We are Rizom. A global collective of independent
 professionals connected by the belief that the **Future of
 Work is Play.**
 
