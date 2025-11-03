@@ -8,12 +8,11 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
+- competitors
+- knowledge management
+- collaboration
 - independent experts
-- specialized talent
 - future of work
-- passion-driven work
-- distributed workforce
-- freelance
 
 ## Sources
 
