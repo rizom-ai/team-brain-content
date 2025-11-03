@@ -8,12 +8,11 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- future of work
 - independent experts
-- knowledge management
-- collaboration
+- specialized talent
 - passion-driven work
-- specialized professionals
+- future of work
+- workforce empowerment
 
 ## Sources
 

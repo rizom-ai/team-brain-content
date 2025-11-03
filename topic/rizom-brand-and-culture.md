@@ -10,10 +10,9 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 - knowledge management
 - collaboration
-- remote work
-- independent experts
-- productivity
-- intelligence
+- distributed teams
+- information consolidation
+- platform integration
 
 ## Sources
 
