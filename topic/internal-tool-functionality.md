@@ -8,14 +8,12 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- independent experts
-- freelancers
-- specialized professionals
 - future of work
-- flexible work
+- independent experts
+- knowledge management
+- collaboration
 - passion-driven work
-- talent coordination
-- collaborative community
+- specialized professionals
 
 ## Sources
 
