@@ -8,12 +8,16 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- product launch
-- future of work
 - knowledge management
 - collaboration
 - independent experts
 - specialized professionals
+- future of work
+- organizational knowledge
+- distributed teams
+- note-taking
+- project management
+- communication
 
 ## Sources
 
