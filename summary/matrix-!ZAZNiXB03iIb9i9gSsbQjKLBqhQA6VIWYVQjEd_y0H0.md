@@ -3,10 +3,22 @@ conversationId: matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0
 channelName: Recall Room
 channelId: '!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0'
 interfaceType: matrix
-entryCount: 26
-totalMessages: 45
+entryCount: 28
+totalMessages: 55
 ---
 # Summary Log
+
+### [2025-11-03T14:33:12.197Z] Rizom Recall Limitations and Improvements
+
+The conversation shifted to discussing the limitations of the Recall assistant, which tends to provide responses based only on the information available in the Rizom knowledge base rather than comprehensive company details. The user noted that Recall's answers are sometimes not very relevant or accurate as a result. To improve this, the user plans to upload additional documents to expand Recall's knowledge, but the main benefit will come from using Recall in the main communication channel to have real conversations and interactions. The user also asked about Rizom's funding details, which are not covered in the current knowledge base.</summary>
+
+---
+
+### [2025-11-03T14:32:21.107Z] Rizom Recall Product Showcases
+
+The conversation continues with the user asking for more details on the events and dates where the Rizom Recall product has been showcased. The assistant provides a summary of the key events mentioned in the Rizom knowledge base, including the Rizom Launch Event, the Future of Work Conference, the Knowledge Management Summit, and the Distributed Teams Expo. However, the user notes that the assistant's responses are often based only on the limited information available in Recall itself, and may not be fully accurate or relevant. The user indicates they will be uploading additional documents soon to help improve the assistant's knowledge, and that the main benefit will come from using Recall in the main communication channel to have real conversations.
+
+---
 
 ### [2025-11-03T13:59:15.269Z] Rizom Recall Product Launch Details
 

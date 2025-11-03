@@ -12,12 +12,12 @@ Recall offers the following key capabilities:
 
 ## Keywords
 
-- Recall
-- Showcases
-- Events
-- Knowledge Management
-- Distributed Teams
-- Future of Work
+- knowledge management
+- information relevance
+- data quality
+- knowledge sharing
+- team collaboration
+- Recall tool
 
 ## Sources
 
