@@ -3,10 +3,16 @@ conversationId: matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0
 channelName: Recall Room
 channelId: '!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0'
 interfaceType: matrix
-entryCount: 25
-totalMessages: 40
+entryCount: 26
+totalMessages: 45
 ---
 # Summary Log
+
+### [2025-11-03T13:59:15.269Z] Rizom Recall Product Launch Details
+
+The user has asked for more details on the launch timeline and showcasing events for Rizom's Recall product and platform. Based on the information provided in the Rizom knowledge base, the Recall platform was launched in October 2025. It has since been showcased at several industry events, including the Rizom Launch Event, the Future of Work Conference, the Knowledge Management Summit, and the Distributed Teams Expo in 2025 and 2026. The knowledge base does not contain any additional details on other launch or showcase events.
+
+---
 
 ### [2025-11-03T13:50:32.932Z] Rizom Recall Product Launch Timing
 
