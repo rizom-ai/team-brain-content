@@ -10,9 +10,10 @@ The discussion includes references to issues with permissions for a specific com
 
 - independent experts
 - specialized talent
-- passion-driven work
 - future of work
-- workforce empowerment
+- passion-driven work
+- distributed workforce
+- freelance
 
 ## Sources
 

@@ -13,12 +13,11 @@ Recall offers the following key capabilities:
 ## Keywords
 
 - knowledge management
-- information sharing
-- collaboration
-- distributed teams
-- organizational knowledge
-- knowledge consolidation
-- knowledge accessibility
+- knowledge capture
+- knowledge organization
+- knowledge sharing
+- distributed work
+- information management
 
 ## Sources
 
