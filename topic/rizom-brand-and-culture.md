@@ -8,12 +8,13 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- knowledge management
-- collaboration
-- remote work
+- product showcases
+- events
+- conferences
+- platform capabilities
 - independent experts
-- productivity
-- intelligence
+- distributed teams
+- knowledge management
 
 ## Sources
 

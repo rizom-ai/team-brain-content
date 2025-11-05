@@ -8,11 +8,10 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- independent experts
-- specialized talent
-- workforce challenges
+- competitors
+- knowledge management
 - collaboration
-- talent coordination
+- independent experts
 - future of work
 
 ## Sources

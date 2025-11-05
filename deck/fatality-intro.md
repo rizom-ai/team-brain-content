@@ -19,7 +19,7 @@ Work is Play.**
 
 ---
 
-## Why do we need Rizom
+## Why do we need Rizom?
 
 ---
 
@@ -39,10 +39,12 @@ By creating **an ecosystem of people, tools, contracts, and formats** to uplift 
 
 ---
 
-Fatality! is our **amuse-bouche**. A small, complimentary, single-bite dish to prepare your palate for the courses to come. It is designed by us to showcase what Rizom offers. 
+Fatality! is our **amuse-bouche**. A small single-bite dish to prepare your palate for the courses to come. It is designed by us to showcase what Rizom offers. 
 
 ---
 
 ## We hope you'll enjoy it!
 
 https://rizom.ai
+
+https://www.linkedin.com/company/rizom-collective

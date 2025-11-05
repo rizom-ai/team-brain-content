@@ -12,14 +12,12 @@ Recall offers the following key capabilities:
 
 ## Keywords
 
-- projects
-- initiatives
-- priorities
-- collaboration
 - knowledge management
-- professional networking
-- HR processes
-- tool integrations
+- information relevance
+- data quality
+- knowledge sharing
+- team collaboration
+- Recall tool
 
 ## Sources
 
