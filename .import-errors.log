@@ -1,0 +1,56 @@
+2025-10-22T06:56:59.009Z - decks/intro-to-typescript.md: Entity type registration failed for decks: No adapter registered for entity type
+→ decks/intro-to-typescript.md.invalid
+
+2025-10-22T08:55:24.743Z - decks/intro-to-typescript.md: Entity type registration failed for decks: No adapter registered for entity type
+→ decks/intro-to-typescript.md.invalid
+
+2025-10-22T10:06:10.838Z - [RECOVERED] deck/tutorial.md
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+2025-10-22T10:06:10.838Z - [RECOVERED] deck/tutorial.md
+2025-10-23T06:32:27.318Z - deck/goals.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
+→ deck/goals.md.invalid
+
+2025-10-23T06:32:27.319Z - deck/test.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
+→ deck/test.md.invalid
+
+2025-10-23T06:32:27.319Z - deck/about.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
+→ deck/about.md.invalid
+
+2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
+
+2025-10-23T06:43:35.463Z - [RECOVERED] deck/cococo.md
+
+2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
+
+2025-10-23T07:09:52.972Z - [RECOVERED] deck/declaration.md
+
+2025-10-23T06:43:35.463Z - [RECOVERED] deck/cococo.md
+
+2025-10-23T17:28:28.962Z - [RECOVERED] deck/tutorial.md
+2025-10-23T17:28:28.962Z - [RECOVERED] deck/tutorial.md
+2025-10-26T08:53:35.978Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+
+2025-10-27T06:38:01.377Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+
+2025-10-27T06:48:01.379Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+
+2025-10-27T16:43:04.950Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+
+2025-10-27T16:58:05.110Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+
+2025-10-27T17:18:05.185Z - site-info/site-info.md: Entity type registration failed for site-info: No adapter registered for entity type
+→ site-info/site-info.md.invalid
+

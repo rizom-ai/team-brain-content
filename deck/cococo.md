@@ -1,16 +1,17 @@
 ---
-title: "Community, Collective, Core"
+title: 'Community, Collective, Core'
 description: Core Principles of Rizom
 author: Yeehaa
 ---
-
 # Community, Collective, Core
 
 ---
 
+
 ## Who are we?
 
 ---
+
 
 A **band of misfits** combining our skills, networks, and resources without giving up our individual quirks, values, and styles that made us such unique, talented professionals in the first place.
 
@@ -20,6 +21,7 @@ A **band of misfits** combining our skills, networks, and resources without givi
 
 ---
 
+
 A **culture** where every person is empowered to explore their passions and hone their unique strengths. This inspires aligned, purpose-driven collaboration that drives positive societal transformation and sustainable financial success. 
 
 ---
@@ -28,7 +30,7 @@ A **culture** where every person is empowered to explore their passions and hone
 
 ---
 
-Every misfit is a potential **innovator**. Yet too often, these creative minds never find the nourishing environment they need to truly flourish.
+Every misfit is a potential **innovator**. Yet too often, these creative minds never find the nourishing environment they need to truly flourish. 
 
 ---
 
@@ -50,13 +52,13 @@ Our name comes from 'rhizome'. These are plant stem that grow sideways under the
 
 Rhizomes create resilient ecosystems by:
 
-- **Sharing** nutrients and resources across the network
++ **Sharing** nutrients and resources across the network
 
-- Surviving and **regenerating** even when parts are damaged
++ Surviving and **regenerating** even when parts are damaged
 
-- Supporting new **growth** from any point in the system
++ Supporting new **growth** from any point in the system
 
-- **Adapting** quickly to changing environmental conditions
++ **Adapting** quickly to changing environmental conditions
 
 ---
 
@@ -64,19 +66,20 @@ Rhizomes create resilient ecosystems by:
 
 ---
 
+
 Our organization is **organic**, **decentralized**, and based on **aligned** interests.
 
 ---
 
 We create a resilient ecosystem by:
 
-- **Sharing** expertise, resources, and opportunities across our network of professionals
++ **Sharing** expertise, resources, and opportunities across our network of professionals
 
-- **Regenerating** collective value through fair and transparent compensation models
++ **Regenerating** collective value through fair and transparent compensation models
 
-- **Growing** sustainably through curated connections and meaningful collaborations
++ **Growing** sustainably through curated connections and meaningful collaborations
 
-- **Adapting** together by fostering open communication and continuous learning
++ **Adapting** together by fostering open communication and continuous learning
 
 ---
 
@@ -90,6 +93,7 @@ We create a resilient ecosystem by:
 
 ## Our Goals
 
+
 1. Grow a **Community**
 
 2. Foster a **Collective**
@@ -102,49 +106,53 @@ We create a resilient ecosystem by:
 
 #### What we offer
 
-- We provide access to a thriving **ecosystem** of like-minded professionals and organizations
++ We provide access to a thriving **ecosystem** of like-minded professionals and organizations
 
-- We can periodically **influence** the future of the collective
++ We can periodically **influence** the future of the collective
+
 
 #### How I Contribute
 
-- I announce my community membership **publicly**
++ I announce my community membership **publicly**
 
-- I share **expertise** and learn from others
++ I share **expertise** and learn from others
 
 ---
 
 ### Collective
 
+
 #### What we offer
 
-- We select curated, challenging, purpose-driven **projects** to work on together
++ We select curated, challenging, purpose-driven **projects** to work on together
 
-- We provide a generous, distributive **compensation structure**
++ We provide a generous, distributive **compensation structure**
 
-- We periodically **vote** on decisions about the future of the collective
++ We periodically **vote** on decisions about the future of the collective
+
 
 #### How I Contribute
 
-- I **commit** to shared goals, deadlines, and deliverables
++ I **commit** to shared goals, deadlines, and deliverables
 
-- I provide and receive open, actionable **feedback**
++ I provide and receive open, actionable **feedback**
 
 ---
 
 ### Core
 
+
 #### What we offer
 
-- We share the **ownership** of the collective
++ We share the **ownership** of the collective
 
-- We actively **determine** the future of the collective
++ We actively **determine**  the future of the collective
 
 #### How I Contribute
 
-- I either provide client **projects** or monatizable **products**
++ I either provide client **projects** or monatizable **products** 
 
-- I ensure work feels like **play** as much as possible to everyone involved
++ I ensure work feels like **play** as much as possible to everyone involved
 
 ---
 
@@ -174,7 +182,7 @@ Make the collective **financially sustainable**
 
 ### December 2027
 
-Founded a future of work **think tank**
+Founded a future of work **think tank** 
 
 Spin off **5** autonomous cells
 

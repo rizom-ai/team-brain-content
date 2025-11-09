@@ -3,22 +3,22 @@ title: The future of work is play
 description: Rizom's first public attempt to declare what it is and can be
 author: Yeehaa
 ---
-
 # The future of work is play
 
 ---
 
-## What are we?
+## What are we? 
 
 ---
 
-We are a studio for **ecosystem architecture**.
+We are a studio for **ecosystem architecture**. 
 
 ---
 
 ## What the ★#@☠︎♠︎! does that mean?
 
 ---
+
 
 Ecosystem Architecture is a regenerative practice that creates and fosters diverse, resilient, effective communities and organizations bound by **shared knowledge** rather than physical space.
 
@@ -60,7 +60,7 @@ We will make sure that **the future of work is play**.
 
 ---
 
-The future doesn't need to separate work from play. As technology handles the boring stuff, we get to focus on what we do best: **creating, exploring, and solving puzzles together**.
+The future doesn't need to separate work from play. As technology handles the boring stuff, we get to focus on what we do best: **creating, exploring, and solving puzzles together**. 
 
 ---
 
@@ -84,11 +84,11 @@ We empower people and organizations to thrive by removing blockages to **unlock 
 
 ---
 
-- We **curate** meaningful connections
++ We **curate** meaningful connections
 
-- We **moderate** shared spaces
++ We **moderate** shared spaces 
 
-- We **facilitate** personal development
++ We **facilitate** personal development
 
 ---
 
@@ -96,9 +96,9 @@ We empower people and organizations to thrive by removing blockages to **unlock 
 
 ---
 
-- We offer **consulting services**
++ We offer **consulting services**
 
-- We develop **open-source solutions**
++ We develop **open-source solutions**
 
 ---
 
