@@ -6,8 +6,8 @@ Created time: September 26, 2025 5:24 AM
 
 ## Executive Summary
 
-*The future of work is something you build with others with whom you have a shared vision and shared system to perform work. It is something that you drive yourself, deliberately. 
-Start building systems that do work to overcome the limitations and barriers of the current system and way of working.*
+_The future of work is something you build with others with whom you have a shared vision and shared system to perform work. It is something that you drive yourself, deliberately.
+Start building systems that do work to overcome the limitations and barriers of the current system and way of working._
 
 Rizom is building the first talent collective that transforms how professionals collaborate and create value together. We're not just connecting freelancers with clients/projects—we're fundamentally reimagining how talented people find their tribes and build exceptional work together.
 
@@ -68,13 +68,13 @@ This structure enables professionals to participate as owners rather than employ
 Rizom transforms how professionals collaborate, perform, and deliver by creating an environment where work becomes engaging and purposeful. Unlike traditional platforms that simply connect freelancers with clients, we build a community where talented people find their ideal collaborators and meaningful projects naturally emerge.
 
 1. **True Professional Freedom**: Instead of being limited by location or company hierarchy, professionals can work with the best people regardless of geography. They earn both project revenue and equity ownership, building long-term wealth rather than just collecting paychecks.
-2. **Teams That Actually Work**: Our system identifies and facilitate team dynamics that increase satisfactions from all parties, also increase the productivity and quality of work outcome. This means fewer frustrating meetings, better project outcomes, and the satisfaction of working with people who genuinely understand your approach. 
+2. **Teams That Actually Work**: Our system identifies and facilitate team dynamics that increase satisfactions from all parties, also increase the productivity and quality of work outcome. This means fewer frustrating meetings, better project outcomes, and the satisfaction of working with people who genuinely understand your approach.
 3. **Quality Without the Overhead**: Businesses get access to pre-vetted expert teams without the hassle of recruiting, interviewing, or managing individual contractors. The teams come together quickly, work efficiently, and deliver results because they want to be there.
 4. **Shared Success**: When projects succeed, everyone benefits proportionally. This alignment means no one is incentivized to cut corners or drag out work unnecessarily. Success becomes genuinely collaborative rather than zero-sum.
-5. **How Technology Enables Better Work**: ****Rather than forcing people into rigid structures, our platform learns how individuals work best and connects them accordingly. We track actual performance and collaboration patterns instead of relying on resumes or self-reported skills. This creates trust between all parties while ensuring the right people find each other.
-    1. **For Professionals**: Bringing together professionals outside of the current formal structures with all the existing limitations. Plus, providing a true network for individual professionals who lack that network base in current setting. And earn ownership in successful projects, and build a reputation based on real outcomes rather than networking ability.
-    2. **For Businesses**: Access naturally-formed expert teams with built-in quality assurance, transparent pricing, and accountability structures that ensure project success.
-    3. **For Everyone**: The platform gets smarter with each interaction, creating better matches, stronger teams, and more successful outcomes over time.
+5. **How Technology Enables Better Work**: \*\*\*\*Rather than forcing people into rigid structures, our platform learns how individuals work best and connects them accordingly. We track actual performance and collaboration patterns instead of relying on resumes or self-reported skills. This creates trust between all parties while ensuring the right people find each other.
+   1. **For Professionals**: Bringing together professionals outside of the current formal structures with all the existing limitations. Plus, providing a true network for individual professionals who lack that network base in current setting. And earn ownership in successful projects, and build a reputation based on real outcomes rather than networking ability.
+   2. **For Businesses**: Access naturally-formed expert teams with built-in quality assurance, transparent pricing, and accountability structures that ensure project success.
+   3. **For Everyone**: The platform gets smarter with each interaction, creating better matches, stronger teams, and more successful outcomes over time.
 
 **[Below text updated by Sam]**
 

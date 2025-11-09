@@ -469,16 +469,16 @@ Sometimes the strongest moat isn't technology. It's culture coded into every int
 
 ## Competitive Differentiation
 
-| Traditional Platforms | Traditional Employment | Rizom |
-| --- | --- | --- |
-| Transaction matching | Centralized hierarchy | Natural collaboration |
-| Resume screening | Job descriptions | Communication pattern learning |
-| Freelance isolation | Corporate compromise | Thrive together |
-| Hourly rates | Salary cap | Revenue + equity ownership |
-| Solo work | Soul-dimming meetings | Play with purpose |
-| No guidance | Rigid management | Facilitators + governance |
-| Gig mentality | Retirement plan | Wealth-building ecosystem |
-| Platform extracts value | Company extracts value | Value circulates like nutrients  |
+| Traditional Platforms   | Traditional Employment | Rizom                           |
+| ----------------------- | ---------------------- | ------------------------------- |
+| Transaction matching    | Centralized hierarchy  | Natural collaboration           |
+| Resume screening        | Job descriptions       | Communication pattern learning  |
+| Freelance isolation     | Corporate compromise   | Thrive together                 |
+| Hourly rates            | Salary cap             | Revenue + equity ownership      |
+| Solo work               | Soul-dimming meetings  | Play with purpose               |
+| No guidance             | Rigid management       | Facilitators + governance       |
+| Gig mentality           | Retirement plan        | Wealth-building ecosystem       |
+| Platform extracts value | Company extracts value | Value circulates like nutrients |
 
 **vs. Amazon's "Tributary" (and other copycats):**
 Capital ✓, Scale ✓, Machine Learning ✓, Culture ✗
