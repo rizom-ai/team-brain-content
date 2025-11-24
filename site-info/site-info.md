@@ -1,20 +1,23 @@
 # Site Information
 
 ## Title
-Yeehaa
+Team Brain
 
 ## Description
-Personal knowledge base and professional showcase
+Team knowledge hub for collaboration
+
+## URL
+https://team.example.com
 
 ## Theme Mode
-light
+dark
 
 ## CTA
 ### Heading
-Let's work together
+Join the team
 
 ### Button Text
-Get in Touch
+Get Started
 
 ### Button Link
-mailto:you@example.com
+https://team.example.com/signup

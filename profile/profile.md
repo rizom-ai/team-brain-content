@@ -1,54 +1,48 @@
 # Profile
 
 ## Name
-Yeehaa
+Team Organization
 
 ## Description
-Professional developer, writer, and knowledge worker
-
-## Tagline
-Building tools for thought
-
-## Intro
-Essays and presentations on technology, productivity, and knowledge management
+Collaborative team workspace for knowledge sharing
 
 ## Website
-https://yeehaa.io
+https://team.example.com
 
 ## Email
-yeehaa@rizom.ai
+team@example.com
 
 ## Social Links
 
 ### Social Link 1
 
 #### Platform
-github
-
-#### URL
-https://github.com/yourusername
-
-#### Label
-View my code on GitHub
-
-### Social Link 2
-
-#### Platform
 linkedin
 
 #### URL
-https://www.linkedin.com/in/yeehaa
+https://www.linkedin.com/company/team-org
 
 #### Label
 Connect on LinkedIn
 
+### Social Link 2
+
+#### Platform
+github
+
+#### URL
+https://github.com/team-org
+
+#### Label
+View team projects
+
 ### Social Link 3
 
 #### Platform
-website
+email
 
 #### URL
-https://rizom.ai
+mailto:team@example.com
 
 #### Label
-Visit Rizom's website
+Contact team
