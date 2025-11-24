@@ -1,5 +1,6 @@
 ---
 title: The future of work is play
+slug: the-future-of-work-is-play
 description: Rizom's first public attempt to declare what it is and can be
 author: Yeehaa
 ---

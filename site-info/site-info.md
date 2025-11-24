@@ -6,9 +6,6 @@ Team Brain
 ## Description
 Team knowledge hub for collaboration
 
-## URL
-https://team.example.com
-
 ## Theme Mode
 dark
 
