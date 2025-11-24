@@ -6,12 +6,6 @@ Team Organization
 ## Description
 Collaborative team workspace for knowledge sharing
 
-## Tagline
-
-
-## Intro
-
-
 ## Website
 https://team.example.com
 
