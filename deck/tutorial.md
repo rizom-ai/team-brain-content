@@ -1,6 +1,5 @@
 ---
 title: Recall Tutorial
-slug: recall-tutorial
 description: First steps to get started with our team's collective brain
 author: Yeehaa
 ---
@@ -31,6 +30,7 @@ author: Yeehaa
 1. Go to: [https://matrix.to/#/#recall-room:rizom.ai](https://matrix.to/#/#recall-room:rizom.ai)
 2. Send: `Hi @recall, how can you help me today?`
 3. Wait for response
+
 
 ✓ Recall is ready!
 
@@ -68,8 +68,8 @@ No commands needed!
 ## Exercise
 
 1. Share an article URL
-2. Visit https://recall.rizom.ai/links
-3. Find your links captured
+3. Visit https://recall.rizom.ai/links
+4. Find your links captured
 
 ---
 
@@ -92,8 +92,8 @@ No commands needed!
 ## Exercise
 
 1. Have a conversation about a project (3-4 messages)
-2. Visit [https://recall.rizom.ai/topics](https://recall.rizom.ai/topics)
-3. Visit [https://recall.rizom.ai/summaries](https://recall.rizom.ai/summaries)
+2. Visit [https://recall.rizom.ai/topics](https://recall.rizom.ai/topics) 
+3. Visit [https://recall.rizom.ai/summaries](https://recall.rizom.ai/summaries) 
 
 ---
 
@@ -102,7 +102,6 @@ No commands needed!
 ---
 
 # Daily Habits
-
 **Start building your team's knowledge!**
 
 ✓ Share links as they come up
@@ -179,7 +178,7 @@ Ask Claude to search team knowledge
 **Essential Commands**
 
 - `!help` - Show all commands
-- `!status` - Show Recall's status
+-  `!status` - Show Recall's status
 - `!identity` - Show the Recall's identity
 
 ---
@@ -189,9 +188,9 @@ Ask Claude to search team knowledge
 - Website: [https://recall.rizom.ai](https://recall.rizom.ai)
 - API: [https://recall.rizom.ai/mcp](https://recall.rizom.ai/mcp)
 
+
 - Recall Content: [https://github.com/rizom-ai/team-brain-content](https://github.com/rizom-ai/team-brain-content)
 - Brains Code: [https://github.com/rizom-ai/brains](https://github.com/rizom-ai/brains)
-
 ---
 
 ## Start capturing your team's knowledge
