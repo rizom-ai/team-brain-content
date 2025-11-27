@@ -8,12 +8,12 @@ The context indicates that Rizom's business is focused on the 'future of work', 
 
 ## Keywords
 
-- future of work
 - independent experts
-- meaningful work
-- knowledge management
-- collaboration
-- bureaucracy
+- talent coordination
+- collaboration platform
+- community building
+- specialized talent
+- business model
 
 ## Sources
 
