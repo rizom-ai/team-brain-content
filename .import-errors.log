@@ -48,43 +48,31 @@
 
 2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
 
-2025-11-24T04:39:06.973Z - topic/weather-and-natural-disasters.md: Entity type registration failed for topic: No adapter registered for entity type
-→ topic/weather-and-natural-disasters.md.invalid
+2025-11-27T15:39:49.037Z - [RECOVERED] topic/weather-and-natural-disasters.md
 
-2025-11-24T04:39:06.973Z - topic/recall-platform-capabilities.md: Entity type registration failed for topic: No adapter registered for entity type
-→ topic/recall-platform-capabilities.md.invalid
+2025-11-27T15:39:49.039Z - [RECOVERED] topic/recall-platform-capabilities.md
 
 2025-11-27T15:35:07.461Z - [RECOVERED] topic/rizom-business-model.md
 
-2025-11-24T04:39:06.973Z - topic/internal-tool-functionality.md: Entity type registration failed for topic: No adapter registered for entity type
-→ topic/internal-tool-functionality.md.invalid
+2025-11-27T15:39:49.043Z - [RECOVERED] topic/internal-tool-functionality.md
 
-2025-11-24T04:39:06.973Z - topic/rizom-brand-and-culture.md: Entity type registration failed for topic: No adapter registered for entity type
-→ topic/rizom-brand-and-culture.md.invalid
+2025-11-27T15:39:49.041Z - [RECOVERED] topic/rizom-brand-and-culture.md
 
-2025-11-24T04:39:06.988Z - link/matrix-rizom-ai-4fbf9e.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/matrix-rizom-ai-4fbf9e.md.invalid
+2025-11-27T15:39:49.054Z - [RECOVERED] link/matrix-rizom-ai-4fbf9e.md
 
-2025-11-24T04:39:06.988Z - link/matrix-to-627b83.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/matrix-to-627b83.md.invalid
+2025-11-27T15:39:49.078Z - [RECOVERED] link/matrix-to-627b83.md
 
-2025-11-24T04:39:06.988Z - link/ground-news-b414c7.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/ground-news-b414c7.md.invalid
+2025-11-27T15:39:49.072Z - [RECOVERED] link/ground-news-b414c7.md
 
-2025-11-24T04:39:06.988Z - link/hackmd-io-2a6166.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/hackmd-io-2a6166.md.invalid
+2025-11-27T15:39:49.056Z - [RECOVERED] link/hackmd-io-2a6166.md
 
-2025-11-24T04:39:06.988Z - link/localhost-e35da9.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/localhost-e35da9.md.invalid
+2025-11-27T15:39:49.075Z - [RECOVERED] link/localhost-e35da9.md
 
-2025-11-24T04:39:06.989Z - link/www-prevention-com-63a216.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/www-prevention-com-63a216.md.invalid
+2025-11-27T15:39:49.063Z - [RECOVERED] link/www-prevention-com-63a216.md
 
-2025-11-24T04:39:06.989Z - link/www-annualreviews-org-b38e9f.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/www-annualreviews-org-b38e9f.md.invalid
+2025-11-27T15:39:49.059Z - [RECOVERED] link/www-annualreviews-org-b38e9f.md
 
-2025-11-24T04:39:06.989Z - link/thestillwandering-substack-com-977e7b.md: Entity type registration failed for link: No adapter registered for entity type
-→ link/thestillwandering-substack-com-977e7b.md.invalid
+2025-11-27T15:39:49.079Z - [RECOVERED] link/thestillwandering-substack-com-977e7b.md
 
 2025-11-27T15:35:07.493Z - [RECOVERED] summary/matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0.md
 
