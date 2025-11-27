@@ -1,5 +1,6 @@
 ---
 title: Fatality! Rizom Introduction
+slug: fatality-rizom-introduction
 description: What is Rizom and why do we host these events?
 author: Yeehaa
 ---

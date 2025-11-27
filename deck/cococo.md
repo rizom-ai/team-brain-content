@@ -1,5 +1,6 @@
 ---
 title: 'Community, Collective, Core'
+slug: community-collective-core
 description: Core Principles of Rizom
 author: Yeehaa
 ---
