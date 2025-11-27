@@ -1,5 +1,6 @@
 ---
 title: Recall Tutorial
+slug: recall-tutorial
 description: First steps to get started with our team's collective brain
 author: Yeehaa
 ---
