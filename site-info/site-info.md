@@ -1,20 +1,10 @@
 # Site Information
 
 ## Title
-Team Brain
+Recall
 
 ## Description
-Team knowledge hub for collaboration
+Your team's AI-powered knowledge hub
 
 ## Theme Mode
 dark
-
-## CTA
-### Heading
-Join the team
-
-### Button Text
-Get Started
-
-### Button Link
-https://team.example.com/signup

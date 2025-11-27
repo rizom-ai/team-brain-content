@@ -54,8 +54,7 @@
 2025-11-24T04:39:06.973Z - topic/recall-platform-capabilities.md: Entity type registration failed for topic: No adapter registered for entity type
 → topic/recall-platform-capabilities.md.invalid
 
-2025-11-24T04:39:06.973Z - topic/rizom-business-model.md: Entity type registration failed for topic: No adapter registered for entity type
-→ topic/rizom-business-model.md.invalid
+2025-11-27T15:35:07.461Z - [RECOVERED] topic/rizom-business-model.md
 
 2025-11-24T04:39:06.973Z - topic/internal-tool-functionality.md: Entity type registration failed for topic: No adapter registered for entity type
 → topic/internal-tool-functionality.md.invalid
@@ -87,8 +86,7 @@
 2025-11-24T04:39:06.989Z - link/thestillwandering-substack-com-977e7b.md: Entity type registration failed for link: No adapter registered for entity type
 → link/thestillwandering-substack-com-977e7b.md.invalid
 
-2025-11-24T04:39:06.989Z - summary/matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0.md: Entity type registration failed for summary: No adapter registered for entity type
-→ summary/matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0.md.invalid
+2025-11-27T15:35:07.493Z - [RECOVERED] summary/matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0.md
 
 2025-11-24T04:42:01.858Z - post/Practice Innovation.md: Entity type registration failed for post: No adapter registered for entity type
 → post/Practice Innovation.md.invalid
@@ -125,4 +123,40 @@
 
 2025-11-24T04:42:01.861Z - post/Global Village People.md: Entity type registration failed for post: No adapter registered for entity type
 → post/Global Village People.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Urging New Institutions.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Urging New Institutions.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Reclaiming The Future.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Reclaiming The Future.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Foam Party.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Foam Party.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Align The Misaligned.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Align The Misaligned.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Across Space And Time.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Across Space And Time.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Practice Innovation.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Practice Innovation.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Shenzen Goes Ham.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Shenzen Goes Ham.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Learning From Nature.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Learning From Nature.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Economy Of Garbage.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Economy Of Garbage.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Global Village People.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Global Village People.md.invalid
+
+2025-11-27T15:35:07.476Z - post/The Good Foot.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/The Good Foot.md.invalid
+
+2025-11-27T15:35:07.476Z - post/The Practice Of Ecosystem Architecture.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/The Practice Of Ecosystem Architecture.md.invalid
 
