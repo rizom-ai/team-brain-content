@@ -1,5 +1,6 @@
 ---
 title: Forgotten Futures
+status: draft
 slug: forgotten-futures
 description: >-
   A critical exploration of AI's evolutionary path, examining how winters shaped
