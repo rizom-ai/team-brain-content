@@ -1,6 +1,5 @@
 ---
 title: Recall Tutorial
-status: draft
 slug: recall-tutorial
 description: First steps to get started with our team's collective brain
 author: Yeehaa
