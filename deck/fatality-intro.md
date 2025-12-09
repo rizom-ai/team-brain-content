@@ -24,7 +24,7 @@ Work is Play.**
 
 ---
 
-Succesful collaboration comes from a culture of **shared trust**. While there may be a lot of ways to create such a culture in traditional companies, individual professionals constantly need to reinvent the wheel
+Successful collaboration comes from a culture of **shared trust**. While there may be a lot of ways to create such a culture in traditional companies, individual professionals constantly need to reinvent the wheel
 
 ---
 
