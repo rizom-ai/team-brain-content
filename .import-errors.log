@@ -1,0 +1,150 @@
+2025-10-22T06:56:59.009Z - decks/intro-to-typescript.md: Entity type registration failed for decks: No adapter registered for entity type
+→ decks/intro-to-typescript.md.invalid
+
+2025-10-22T08:55:24.743Z - decks/intro-to-typescript.md: Entity type registration failed for decks: No adapter registered for entity type
+→ decks/intro-to-typescript.md.invalid
+
+2025-10-22T10:06:10.838Z - [RECOVERED] deck/tutorial.md
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+2025-10-22T10:06:10.838Z - [RECOVERED] deck/tutorial.md
+2025-10-23T06:32:27.318Z - deck/goals.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
+→ deck/goals.md.invalid
+
+2025-10-23T06:32:27.319Z - deck/test.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
+→ deck/test.md.invalid
+
+2025-10-23T06:32:27.319Z - deck/about.md: Invalid deck: markdown must contain slide separators (---) to be a valid presentation
+→ deck/about.md.invalid
+
+2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
+
+2025-10-23T06:43:35.463Z - [RECOVERED] deck/cococo.md
+
+2025-10-23T06:39:51.566Z - [RECOVERED] deck/2025.md
+
+2025-10-23T07:09:52.972Z - [RECOVERED] deck/declaration.md
+
+2025-10-23T06:43:35.463Z - [RECOVERED] deck/cococo.md
+
+2025-10-23T17:28:28.962Z - [RECOVERED] deck/tutorial.md
+2025-10-23T17:28:28.962Z - [RECOVERED] deck/tutorial.md
+2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
+
+2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
+
+2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
+
+2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
+
+2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
+
+2025-11-09T07:38:22.091Z - [RECOVERED] site-info/site-info.md
+
+2025-11-27T15:39:49.037Z - [RECOVERED] topic/weather-and-natural-disasters.md
+
+2025-11-27T15:39:49.039Z - [RECOVERED] topic/recall-platform-capabilities.md
+
+2025-11-27T15:35:07.461Z - [RECOVERED] topic/rizom-business-model.md
+
+2025-11-27T15:39:49.043Z - [RECOVERED] topic/internal-tool-functionality.md
+
+2025-11-27T15:39:49.041Z - [RECOVERED] topic/rizom-brand-and-culture.md
+
+2025-11-27T15:39:49.054Z - [RECOVERED] link/matrix-rizom-ai-4fbf9e.md
+
+2025-11-27T15:39:49.078Z - [RECOVERED] link/matrix-to-627b83.md
+
+2025-11-27T15:39:49.072Z - [RECOVERED] link/ground-news-b414c7.md
+
+2025-11-27T15:39:49.056Z - [RECOVERED] link/hackmd-io-2a6166.md
+
+2025-11-27T15:39:49.075Z - [RECOVERED] link/localhost-e35da9.md
+
+2025-11-27T15:39:49.063Z - [RECOVERED] link/www-prevention-com-63a216.md
+
+2025-11-27T15:39:49.059Z - [RECOVERED] link/www-annualreviews-org-b38e9f.md
+
+2025-11-27T15:39:49.079Z - [RECOVERED] link/thestillwandering-substack-com-977e7b.md
+
+2025-11-27T15:35:07.493Z - [RECOVERED] summary/matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0.md
+
+2025-11-24T04:42:01.858Z - post/Practice Innovation.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Practice Innovation.md.invalid
+
+2025-11-24T04:42:01.859Z - post/Across Space And Time.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Across Space And Time.md.invalid
+
+2025-11-24T04:42:01.859Z - post/Shenzen Goes Ham.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Shenzen Goes Ham.md.invalid
+
+2025-11-24T04:42:01.859Z - post/Learning From Nature.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Learning From Nature.md.invalid
+
+2025-11-24T04:42:01.859Z - post/Economy Of Garbage.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Economy Of Garbage.md.invalid
+
+2025-11-24T04:42:01.859Z - post/The Good Foot.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/The Good Foot.md.invalid
+
+2025-11-24T04:42:01.860Z - post/Foam Party.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Foam Party.md.invalid
+
+2025-11-24T04:42:01.860Z - post/Urging New Institutions.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Urging New Institutions.md.invalid
+
+2025-11-24T04:42:01.860Z - post/Reclaiming The Future.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Reclaiming The Future.md.invalid
+
+2025-11-24T04:42:01.860Z - post/The Practice Of Ecosystem Architecture.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/The Practice Of Ecosystem Architecture.md.invalid
+
+2025-11-24T04:42:01.861Z - post/Align The Misaligned.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Align The Misaligned.md.invalid
+
+2025-11-24T04:42:01.861Z - post/Global Village People.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Global Village People.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Urging New Institutions.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Urging New Institutions.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Reclaiming The Future.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Reclaiming The Future.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Foam Party.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Foam Party.md.invalid
+
+2025-11-27T15:35:07.475Z - post/Align The Misaligned.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Align The Misaligned.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Across Space And Time.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Across Space And Time.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Practice Innovation.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Practice Innovation.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Shenzen Goes Ham.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Shenzen Goes Ham.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Learning From Nature.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Learning From Nature.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Economy Of Garbage.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Economy Of Garbage.md.invalid
+
+2025-11-27T15:35:07.476Z - post/Global Village People.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/Global Village People.md.invalid
+
+2025-11-27T15:35:07.476Z - post/The Good Foot.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/The Good Foot.md.invalid
+
+2025-11-27T15:35:07.476Z - post/The Practice Of Ecosystem Architecture.md: Entity type registration failed for post: No adapter registered for entity type
+→ post/The Practice Of Ecosystem Architecture.md.invalid
+
