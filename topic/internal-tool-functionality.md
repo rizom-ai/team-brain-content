@@ -1,19 +1,19 @@
 # Internal Tool Functionality
 
-## Summary
-The conversation touches on issues with the permissions and commands for an internal tool or platform used by the team. There are references to correcting permissions, checking available commands, and updating the tutorial for using the tool.
-
 ## Content
 The discussion includes references to issues with permissions for a specific command ('yeehaa'), as well as the need to check the available commands and update the tutorial for using an internal tool or platform. The team members Joanna and Anand are mentioned in relation to resolving these technical problems.
 
 ## Keywords
 
-- competitors
-- knowledge management
-- collaboration
-- independent experts
-- future of work
+- knowledge base
+- document upload
+- information gaps
+- response quality
+- knowledge enrichment
+- communication integration
+- assistant accuracy
+- iterative improvement
 
 ## Sources
 
-- Recall Room (matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0) [conversation]
+- matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0 (matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0) [summary] <matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0|646e44ae6ca8f5c549375d1eab332707c82bca761d178b2565bcb1d03ccc70bd>
