@@ -10,13 +10,13 @@ Recall offers the following key capabilities:
 ## Keywords
 
 - knowledge management
-- assistant platform
-- collective intelligence
-- October 2025 launch
+- platform capabilities
+- information consolidation
+- collaborative infrastructure
+- instant answers
 - knowledge organization
-- team collaboration
-- information retrieval
-- knowledge coordinator
+- distributed teams
+- collective intelligence
 
 ## Sources
 
