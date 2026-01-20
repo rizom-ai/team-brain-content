@@ -5,14 +5,14 @@ The context indicates that Rizom's business is focused on the 'future of work', 
 
 ## Keywords
 
-- business model
 - independent experts
-- platform monetization
-- revenue streams
-- collaborative ecosystem
 - specialized professionals
+- freelance workforce
 - future of work
-- market positioning
+- talent empowerment
+- collaborative culture
+- distributed professionals
+- work fulfillment
 
 ## Sources
 
