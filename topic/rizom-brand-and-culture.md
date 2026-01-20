@@ -5,14 +5,14 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- market differentiation
-- competitive advantage
-- independent professionals
+- Rizom platform
+- independent experts
 - knowledge management
-- collaboration tools
-- market positioning
-- specialized focus
-- distributed work
+- collaborative culture
+- future of work
+- specialized professionals
+- distributed teams
+- platform ecosystem
 
 ## Sources
 
