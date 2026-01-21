@@ -5,15 +5,14 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- outcome-based
+- outcome measurement
 - value creation
-- cooperation model
-- inputs
-- outputs
+- inputs outputs
 - deliverables
+- cooperation framework
 - mission alignment
-- ambassador building
-- work value
+- ambassadors
+- resource evaluation
 
 ## Sources
 

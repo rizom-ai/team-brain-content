@@ -1,9 +1,10 @@
 ---
 title: Recall Tutorial
-status: draft
+status: published
 slug: recall-tutorial
 description: First steps to get started with our team's collective brain
 author: Yeehaa
+publishedAt: '2024-10-15T00:00:00.000Z'
 ---
 # Get Started with Recall
 
