@@ -5,14 +5,14 @@ The conversations explore Rizom's business model and revenue generation approach
 
 ## Keywords
 
-- business model
-- revenue streams
+- platform business model
+- independent experts
 - monetization strategy
-- platform fees
-- subscriptions
-- financial sustainability
-- pricing model
-- profitability
+- collaborative infrastructure
+- specialized professionals
+- ecosystem
+- revenue streams
+- distributed workforce
 
 ## Sources
 

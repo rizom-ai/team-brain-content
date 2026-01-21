@@ -5,14 +5,14 @@ The context indicates that Rizom's business is focused on the 'future of work', 
 
 ## Keywords
 
+- independent workforce
+- freelance work
+- collaborative culture
 - future of work
-- play-based work
-- work philosophy
-- intrinsic motivation
-- mission-driven
-- ambassador culture
-- engagement
 - meaningful work
+- distributed teams
+- specialized talent
+- work satisfaction
 
 ## Sources
 
