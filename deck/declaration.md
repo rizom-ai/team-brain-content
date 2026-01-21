@@ -1,10 +1,10 @@
 ---
 title: The future of work is play
 status: published
-publishedAt: 2024-09-01T00:00:00Z
 slug: the-future-of-work-is-play
 description: Rizom's first public attempt to declare what it is and can be
 author: Yeehaa
+publishedAt: '2024-09-01T00:00:00.000Z'
 ---
 # The future of work is play
 
