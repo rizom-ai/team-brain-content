@@ -5,15 +5,15 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- rhizome
-- ecosystem
-- decentralized
-- network
-- resilience
-- sharing
-- regeneration
-- adaptation
-- organic structure
+- Rizom
+- Recall platform
+- independent experts
+- knowledge management
+- distributed teams
+- collaborative culture
+- future of work
+- platform launch
+- knowledge consolidation
 
 ## Sources
 

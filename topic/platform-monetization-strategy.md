@@ -5,15 +5,15 @@ The conversations explore Rizom's business model and revenue generation approach
 
 ## Keywords
 
-- membership tiers
-- Community
-- Collective
-- Core
-- ownership
-- projects
-- compensation
-- engagement levels
-- participation
+- revenue model
+- monetization
+- platform fees
+- subscriptions
+- business sustainability
+- independent professionals
+- partnerships
+- financial viability
+- value creation
 
 ## Sources
 
