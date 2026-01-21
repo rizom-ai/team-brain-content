@@ -10,13 +10,13 @@ Recall offers the following key capabilities:
 ## Keywords
 
 - knowledge management
-- collaboration tool
+- Recall platform
+- information consolidation
+- collaborative intelligence
+- knowledge organization
+- team documentation
 - distributed teams
-- collective intelligence
-- information organization
-- platform capabilities
 - knowledge sharing
-- expertise access
 
 ## Sources
 
