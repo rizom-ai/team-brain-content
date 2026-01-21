@@ -5,14 +5,14 @@ The discussion includes references to issues with permissions for a specific com
 
 ## Keywords
 
-- knowledge base
+- knowledge coordination
+- information discovery
 - documentation
-- information gaps
-- knowledge expansion
-- assistant limitations
-- accuracy improvement
-- team communication
-- knowledge contribution
+- decision tracking
+- knowledge sharing
+- team intelligence
+- accessibility
+- collaborative learning
 
 ## Sources
 

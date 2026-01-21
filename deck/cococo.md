@@ -1,6 +1,7 @@
 ---
 title: 'Community, Collective, Core'
-status: draft
+status: published
+publishedAt: 2024-10-01T00:00:00Z
 slug: community-collective-core
 description: Core Principles of Rizom
 author: Yeehaa
