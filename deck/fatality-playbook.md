@@ -1,6 +1,7 @@
 ---
 title: Fatality! Event Playbook
-status: draft
+status: published
+publishedAt: 2024-11-01T00:00:00Z
 slug: fatality-event-playbook
 description: Documentation for organizers of Fatality Events
 author: Yeehaa

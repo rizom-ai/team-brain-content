@@ -1,6 +1,7 @@
 ---
 title: Fatality! Rizom Introduction
-status: draft
+status: published
+publishedAt: 2024-11-01T00:00:00Z
 slug: fatality-rizom-introduction
 description: What is Rizom and why do we host these events?
 author: Yeehaa
