@@ -5,15 +5,14 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- Rizom
-- Recall platform
+- platform business model
 - independent experts
-- knowledge management
-- distributed teams
-- collaborative culture
+- revenue streams
+- monetization strategy
+- specialized professionals
+- freelance workforce
+- ecosystem approach
 - future of work
-- platform launch
-- knowledge consolidation
 
 ## Sources
 
