@@ -6,15 +6,13 @@ The context indicates that Rizom's business is focused on the 'future of work', 
 ## Keywords
 
 - independent experts
+- specialized professionals
+- workforce empowerment
 - future of work
-- freelance workforce
 - collaborative culture
-- specialized talent
+- distributed talent
 - meaningful work
-- work transformation
-- professional empowerment
-- distributed professionals
-- work fulfillment
+- innovation
 
 ## Sources
 
