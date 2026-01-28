@@ -5,14 +5,14 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- competitive advantage
-- market differentiation
-- Notion competitor
-- Roam Research
-- Coda
-- distributed infrastructure
-- knowledge consolidation
+- competitive advantages
 - market positioning
+- Recall differentiation
+- knowledge consolidation
+- independent experts
+- distributed collaboration
+- business model
+- revenue strategy
 
 ## Sources
 
