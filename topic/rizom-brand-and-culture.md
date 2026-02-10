@@ -6,12 +6,14 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 ## Keywords
 
 - independent experts
+- knowledge management
 - collaborative platform
 - future of work
-- knowledge management
+- distributed teams
+- Recall platform
 - specialized professionals
-- Recall product
 - ecosystem
+- knowledge consolidation
 - workforce empowerment
 
 ## Sources
