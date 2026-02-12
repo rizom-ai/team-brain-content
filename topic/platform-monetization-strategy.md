@@ -5,14 +5,14 @@ The conversations explore Rizom's business model and revenue generation approach
 
 ## Keywords
 
-- competitive advantage
-- market differentiation
-- platform positioning
-- specialized focus
-- ecosystem approach
-- competitor analysis
-- value proposition
-- market strategy
+- business model
+- revenue streams
+- platform fees
+- subscriptions
+- monetization strategy
+- financial sustainability
+- platform services
+- professional services
 
 ## Sources
 
