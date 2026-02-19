@@ -5,14 +5,14 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
-- platform business model
+- competitive advantage
 - independent experts
-- revenue streams
-- collaborative ecosystem
-- monetization strategy
-- specialized professionals
-- future of work
-- platform fees
+- knowledge management
+- Notion
+- Roam Research
+- Coda
+- differentiation
+- market positioning
 
 ## Sources
 
