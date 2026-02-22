@@ -1,6 +1,10 @@
----
-title: Recall
-description: Your team's AI-powered knowledge hub
-themeMode: dark
----
+# Site Information
 
+## Title
+Recall
+
+## Description
+Your team's AI-powered knowledge hub
+
+## Theme Mode
+dark
