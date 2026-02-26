@@ -15,14 +15,13 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
+- business model
 - independent experts
-- platform business model
-- collaborative culture
+- platform ecosystem
 - revenue streams
-- distributed workforce
+- collaborative culture
 - future of work
 - specialized professionals
-- knowledge management
 - monetization strategy
 
 ## Sources

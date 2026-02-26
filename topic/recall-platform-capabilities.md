@@ -20,12 +20,12 @@ Recall offers the following key capabilities:
 ## Keywords
 
 - knowledge management
-- collaboration platform
-- collective intelligence
-- knowledge organization
-- distributed teams
-- instant answers
+- collaboration
+- platform capabilities
 - information consolidation
+- collective intelligence
+- distributed teams
+- expertise access
 - knowledge sharing
 
 ## Sources
