@@ -15,14 +15,14 @@ Rizom's organizational structure is inspired by the rhizome, a plant stem that g
 
 ## Keywords
 
-- knowledge consolidation
-- collaborative intelligence
-- information organization
-- distributed teams
-- collective brain
-- Recall platform
-- knowledge discovery
-- expert coordination
+- knowledge base
+- information gaps
+- documentation
+- assistant limitations
+- knowledge expansion
+- real conversations
+- content upload
+- knowledge enrichment
 
 ## Sources
 
