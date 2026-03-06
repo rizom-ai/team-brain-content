@@ -19,14 +19,14 @@ Recall offers the following key capabilities:
 
 ## Keywords
 
+- product launch
+- October 2025
+- industry events
+- market presence
 - knowledge management
-- collaboration tool
-- information consolidation
-- collective intelligence
-- distributed teams
-- knowledge organization
-- instant answers
-- expertise access
+- platform launch
+- conference showcases
+- product positioning
 
 ## Sources
 
