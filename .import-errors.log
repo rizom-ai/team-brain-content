@@ -472,3 +472,157 @@
 ]
 → deck/declaration.md.invalid
 
+2026-03-07T10:31:09.819Z - deck/2025.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/2025.md.invalid
+
+2026-03-07T10:31:09.827Z - deck/tutorial.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/tutorial.md.invalid
+
+2026-03-07T10:31:09.832Z - deck/Forgotten Futures.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/Forgotten Futures.md.invalid
+
+2026-03-07T10:31:09.834Z - deck/fatality-intro.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/fatality-intro.md.invalid
+
+2026-03-07T10:31:09.839Z - deck/cococo.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/cococo.md.invalid
+
+2026-03-07T10:31:09.843Z - deck/fatality-playbook.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/fatality-playbook.md.invalid
+
+2026-03-07T10:31:09.846Z - deck/declaration.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'queued' | 'published'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/declaration.md.invalid
+
