@@ -743,3 +743,9 @@
 2026-03-07T06:46:16.847Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
 → anchor-profile/anchor-profile.md.invalid
 
+2026-03-07T06:51:16.659Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
+→ brain-character/brain-character.md.invalid
+
+2026-03-07T06:51:16.748Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
+→ anchor-profile/anchor-profile.md.invalid
+
