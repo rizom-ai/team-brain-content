@@ -8,4 +8,3 @@ values:
   - efficiency
   - innovation
 ---
-
