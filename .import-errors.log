@@ -138,11 +138,9 @@
   }
 ]
 2026-03-07T10:40:37.468Z - [RECOVERED] deck/declaration.md
-2026-03-07T10:21:16.406Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:21:16.505Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
 2026-03-07T10:40:37.427Z - [RECOVERED] deck/2025.md
     "code": "invalid_type",
@@ -284,11 +282,9 @@
   }
 ]
 2026-03-07T10:40:37.468Z - [RECOVERED] deck/declaration.md
-2026-03-07T10:26:16.326Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:26:16.414Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
 2026-03-07T10:40:37.427Z - [RECOVERED] deck/2025.md
     "code": "invalid_type",
@@ -570,17 +566,13 @@
   }
 ]
 2026-03-07T10:40:37.468Z - [RECOVERED] deck/declaration.md
-2026-03-07T10:31:16.532Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:31:16.646Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T10:36:16.372Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:36:16.454Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
 2026-03-07T10:40:37.427Z - [RECOVERED] deck/2025.md
     "code": "invalid_type",
@@ -722,57 +714,39 @@
   }
 ]
 2026-03-07T10:40:37.468Z - [RECOVERED] deck/declaration.md
-2026-03-07T10:41:16.530Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:41:16.634Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T10:46:16.701Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:46:16.838Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T10:51:16.584Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:51:16.724Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T10:56:16.573Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T10:56:16.651Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T11:11:16.600Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T11:11:16.681Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T11:26:16.490Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T11:26:16.587Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T17:31:16.669Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T17:31:16.804Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T17:36:16.435Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T17:36:16.515Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
-2026-03-07T17:41:16.517Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
-→ brain-character/brain-character.md.invalid
+2026-03-07T17:43:43.159Z - [RECOVERED] brain-character/brain-character.md
 
-2026-03-07T17:41:16.631Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
-→ anchor-profile/anchor-profile.md.invalid
+2026-03-07T17:43:43.152Z - [RECOVERED] anchor-profile/anchor-profile.md
 
