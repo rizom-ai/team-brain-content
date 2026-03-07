@@ -312,3 +312,9 @@
 ]
 → deck/declaration.md.invalid
 
+2026-03-07T10:26:16.326Z - brain-character/brain-character.md: Entity type registration failed for brain-character: No adapter registered for entity type
+→ brain-character/brain-character.md.invalid
+
+2026-03-07T10:26:16.414Z - anchor-profile/anchor-profile.md: Entity type registration failed for anchor-profile: No adapter registered for entity type
+→ anchor-profile/anchor-profile.md.invalid
+
