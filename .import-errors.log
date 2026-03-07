@@ -684,3 +684,56 @@
 ]
 → link/thestillwandering-substack-com-977e7b.md.invalid
 
+2026-03-07T06:41:33.620Z - anchor-profile/anchor-profile.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  }
+]
+→ anchor-profile/anchor-profile.md.invalid
+
+2026-03-07T06:41:33.624Z - brain-character/brain-character.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "role"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "purpose"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "undefined",
+    "path": [
+      "values"
+    ],
+    "message": "Required"
+  }
+]
+→ brain-character/brain-character.md.invalid
+
