@@ -1,6 +1,3 @@
----
-title: Unknown Topic
----
 # Unknown Topic
 
 ## Content
@@ -18,15 +15,18 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 
 ## Keywords
 
+- competitive advantages
+- knowledge consolidation
 - independent experts
-- collaborative platform
-- future of work
-- specialized talent
-- knowledge management
 - distributed teams
-- freelance professionals
-- workforce empowerment
+- future of work
+- market differentiation
+- collaborative infrastructure
+- specialized talent
 
 ## Sources
+
 - matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0 (matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0) [summary] <matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0|646e44ae6ca8f5c549375d1eab332707c82bca761d178b2565bcb1d03ccc70bd>
 - Community, Collective, Core (community-collective-core) [deck] <cococo|12f13c61bbabbe36f74a1bf1ef3194dbf10513ffc4ebe114322c7cbd47c2720e>
+- Fatality! Rizom Introduction (fatality-rizom-introduction) [deck] <fatality-intro|15f21db528fa88645b876bc77e885309602b14d0410961cd8df33f91434e4116>
+- The future of work is play (the-future-of-work-is-play) [deck] <declaration|c55c13e7a0501a63863baabd77c465e34b6c7555e73edc9a98d3490540d718fc>
