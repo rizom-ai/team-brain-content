@@ -32,7 +32,6 @@ Recall offers the following key capabilities:
 - product showcase
 
 ## Sources
-
 - matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0 (matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0) [summary] <matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0|646e44ae6ca8f5c549375d1eab332707c82bca761d178b2565bcb1d03ccc70bd>
 - Fatality! Event Playbook (fatality-event-playbook) [deck] <fatality-playbook|56392f9feccd88dc072ef4e0854128bc0dff8ca438dd1957deefb6df420e3064>
 - Recall Tutorial (recall-tutorial) [deck] <tutorial|5714b49f5771e883d04891fa53d7d9249345fcd0b2735d4de91dea6438abf21e>

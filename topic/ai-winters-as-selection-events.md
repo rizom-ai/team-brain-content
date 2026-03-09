@@ -18,5 +18,4 @@ The document reinterprets AI winters not as failures but as evolutionary selecti
 - history
 
 ## Sources
-
 - Forgotten Futures (forgotten-futures) [deck] <Forgotten Futures|90f153ca541907abb5d486ff820e33c1d4b2b4052df0018d6a4dbb375cb5a93e>

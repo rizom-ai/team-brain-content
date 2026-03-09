@@ -28,7 +28,6 @@ Based on the provided context, Rizom's brand essence is focused on creating a cu
 - specialized talent
 
 ## Sources
-
 - matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0 (matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0) [summary] <matrix-!ZAZNiXB03iIb9i9gSsbQjKLBqhQA6VIWYVQjEd_y0H0|646e44ae6ca8f5c549375d1eab332707c82bca761d178b2565bcb1d03ccc70bd>
 - Community, Collective, Core (community-collective-core) [deck] <cococo|12f13c61bbabbe36f74a1bf1ef3194dbf10513ffc4ebe114322c7cbd47c2720e>
 - Fatality! Rizom Introduction (fatality-rizom-introduction) [deck] <fatality-intro|15f21db528fa88645b876bc77e885309602b14d0410961cd8df33f91434e4116>
