@@ -1,3 +1,6 @@
+---
+title: Unknown Topic
+---
 # Unknown Topic
 
 ## Content
